@@ -1,0 +1,406 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CombinedDataExtract"
+provides-nominal:
+- "8RNCharts19CombinedDataExtractC"
+provides-member:
+- ["8RNCharts19CombinedDataExtractC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- !private "BarChartData"
+- "BarDataExtract"
+- !private "BubbleChartData"
+- "BubbleDataExtract"
+- !private "CandleChartData"
+- "CandleDataExtract"
+- "CastingPrecedence"
+- "ChartData"
+- "ChartDataEntry"
+- !private "CombinedChartData"
+- "CombinedDataExtract"
+- "DataExtract"
+- !private "FloatLiteralType"
+- "IChartDataSet"
+- "Int"
+- !private "IntegerLiteralType"
+- "JSON"
+- !private "LineChartData"
+- "LineDataExtract"
+- !private "ScatterChartData"
+- "ScatterDataExtract"
+- "String"
+- !private "StringLiteralType"
+- !private "fatalError"
+depends-member:
+- !private ["8RNCharts14BarDataExtractC", "extract"]
+- ["8RNCharts14BarDataExtractC", "init"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "barData"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "bubbleData"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "candleData"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "init"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "lineData"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "scatterData"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["8RNCharts17BubbleDataExtractC", "extract"]
+- ["8RNCharts17BubbleDataExtractC", "init"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "barData"]
+- !private ["s7CVarArgP", "bubbleData"]
+- !private ["s7CVarArgP", "candleData"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lineData"]
+- !private ["s7CVarArgP", "scatterData"]
+- !private ["8RNCharts17CandleDataExtractC", "extract"]
+- ["8RNCharts17CandleDataExtractC", "init"]
+- !private ["6Charts9ChartDataC", "barData"]
+- !private ["6Charts9ChartDataC", "bubbleData"]
+- !private ["6Charts9ChartDataC", "candleData"]
+- !private ["6Charts9ChartDataC", "init"]
+- !private ["6Charts9ChartDataC", "lineData"]
+- !private ["6Charts9ChartDataC", "scatterData"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "null"]
+- !private ["Sl", "subscript"]
+- !private ["6Charts17CombinedChartDataC", "barData"]
+- !private ["6Charts17CombinedChartDataC", "bubbleData"]
+- !private ["6Charts17CombinedChartDataC", "candleData"]
+- !private ["6Charts17CombinedChartDataC", "init"]
+- !private ["6Charts17CombinedChartDataC", "lineData"]
+- !private ["6Charts17CombinedChartDataC", "scatterData"]
+- !private ["8RNCharts19CombinedDataExtractC", "BarChartData"]
+- ["8RNCharts19CombinedDataExtractC", "BarDataExtract"]
+- !private ["8RNCharts19CombinedDataExtractC", "BubbleChartData"]
+- ["8RNCharts19CombinedDataExtractC", "BubbleDataExtract"]
+- !private ["8RNCharts19CombinedDataExtractC", "CandleChartData"]
+- ["8RNCharts19CombinedDataExtractC", "CandleDataExtract"]
+- ["8RNCharts19CombinedDataExtractC", "ChartData"]
+- ["8RNCharts19CombinedDataExtractC", "ChartDataEntry"]
+- !private ["8RNCharts19CombinedDataExtractC", "CombinedChartData"]
+- ["8RNCharts19CombinedDataExtractC", "IChartDataSet"]
+- ["8RNCharts19CombinedDataExtractC", "Int"]
+- ["8RNCharts19CombinedDataExtractC", "JSON"]
+- !private ["8RNCharts19CombinedDataExtractC", "LineChartData"]
+- ["8RNCharts19CombinedDataExtractC", "LineDataExtract"]
+- !private ["8RNCharts19CombinedDataExtractC", "ScatterChartData"]
+- ["8RNCharts19CombinedDataExtractC", "ScatterDataExtract"]
+- ["8RNCharts19CombinedDataExtractC", "String"]
+- ["8RNCharts19CombinedDataExtractC", "barDataExtract"]
+- ["8RNCharts19CombinedDataExtractC", "bubbleDataExtract"]
+- ["8RNCharts19CombinedDataExtractC", "candleDataExtract"]
+- ["8RNCharts19CombinedDataExtractC", "createData"]
+- ["8RNCharts19CombinedDataExtractC", "createDataSet"]
+- ["8RNCharts19CombinedDataExtractC", "createEntries"]
+- ["8RNCharts19CombinedDataExtractC", "createEntry"]
+- ["8RNCharts19CombinedDataExtractC", "dataSetConfig"]
+- ["8RNCharts19CombinedDataExtractC", "extract"]
+- !private ["8RNCharts19CombinedDataExtractC", "fatalError"]
+- ["8RNCharts19CombinedDataExtractC", "init"]
+- ["8RNCharts19CombinedDataExtractC", "lineDataExtract"]
+- ["8RNCharts19CombinedDataExtractC", "scatterDataExtract"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "null"]
+- !private ["SL", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "barData"]
+- !private ["s28CustomDebugStringConvertibleP", "bubbleData"]
+- !private ["s28CustomDebugStringConvertibleP", "candleData"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lineData"]
+- !private ["s28CustomDebugStringConvertibleP", "null"]
+- !private ["s28CustomDebugStringConvertibleP", "scatterData"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "barData"]
+- !private ["s23CustomStringConvertibleP", "bubbleData"]
+- !private ["s23CustomStringConvertibleP", "candleData"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lineData"]
+- !private ["s23CustomStringConvertibleP", "null"]
+- !private ["s23CustomStringConvertibleP", "scatterData"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["8RNCharts11DataExtractC", "BarChartData"]
+- ["8RNCharts11DataExtractC", "BarDataExtract"]
+- !private ["8RNCharts11DataExtractC", "BubbleChartData"]
+- ["8RNCharts11DataExtractC", "BubbleDataExtract"]
+- !private ["8RNCharts11DataExtractC", "CandleChartData"]
+- ["8RNCharts11DataExtractC", "CandleDataExtract"]
+- ["8RNCharts11DataExtractC", "ChartData"]
+- ["8RNCharts11DataExtractC", "ChartDataEntry"]
+- !private ["8RNCharts11DataExtractC", "CombinedChartData"]
+- ["8RNCharts11DataExtractC", "IChartDataSet"]
+- ["8RNCharts11DataExtractC", "Int"]
+- ["8RNCharts11DataExtractC", "JSON"]
+- !private ["8RNCharts11DataExtractC", "LineChartData"]
+- ["8RNCharts11DataExtractC", "LineDataExtract"]
+- !private ["8RNCharts11DataExtractC", "ScatterChartData"]
+- ["8RNCharts11DataExtractC", "ScatterDataExtract"]
+- ["8RNCharts11DataExtractC", "String"]
+- ["8RNCharts11DataExtractC", ""]
+- ["8RNCharts11DataExtractC", "barDataExtract"]
+- ["8RNCharts11DataExtractC", "bubbleDataExtract"]
+- ["8RNCharts11DataExtractC", "candleDataExtract"]
+- ["8RNCharts11DataExtractC", "createData"]
+- ["8RNCharts11DataExtractC", "createDataSet"]
+- ["8RNCharts11DataExtractC", "createEntries"]
+- ["8RNCharts11DataExtractC", "createEntry"]
+- ["8RNCharts11DataExtractC", "dataSetConfig"]
+- ["8RNCharts11DataExtractC", "extract"]
+- !private ["8RNCharts11DataExtractC", "fatalError"]
+- ["8RNCharts11DataExtractC", "init"]
+- !private ["8RNCharts11DataExtractC", "init"]
+- ["8RNCharts11DataExtractC", "lineDataExtract"]
+- ["8RNCharts11DataExtractC", "scatterDataExtract"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "null"]
+- !private ["Se", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "null"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "barData"]
+- !private ["SQ", "bubbleData"]
+- !private ["SQ", "candleData"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lineData"]
+- !private ["SQ", "null"]
+- !private ["SQ", "scatterData"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "null"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "null"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "null"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "null"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "null"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "null"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "null"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "null"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "barData"]
+- !private ["SH", "bubbleData"]
+- !private ["SH", "candleData"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "lineData"]
+- !private ["SH", "scatterData"]
+- !private ["10SwiftyJSON0B0V", "null"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["8RNCharts15LineDataExtractC", "extract"]
+- ["8RNCharts15LineDataExtractC", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSObjectC", "barData"]
+- !private ["So8NSObjectC", "bubbleData"]
+- !private ["So8NSObjectC", "candleData"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lineData"]
+- !private ["So8NSObjectC", "scatterData"]
+- !private ["So8NSObjectP", "barData"]
+- !private ["So8NSObjectP", "bubbleData"]
+- !private ["So8NSObjectP", "candleData"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lineData"]
+- !private ["So8NSObjectP", "scatterData"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "null"]
+- !private ["SY", "subscript"]
+- !private ["8RNCharts18ScatterDataExtractC", "extract"]
+- ["8RNCharts18ScatterDataExtractC", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "null"]
+- !private ["ST", "subscript"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bubbleData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "candleData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lineData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scatterData"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "8RNCharts14BarDataExtractC"
+- !private "6Charts35BarLineScatterCandleBubbleChartDataC"
+- !private "SK"
+- !private "Sb"
+- "8RNCharts17BubbleDataExtractC"
+- !private "s7CVarArgP"
+- "8RNCharts17CandleDataExtractC"
+- !private "6Charts9ChartDataC"
+- !private "Sl"
+- !private "6Charts17CombinedChartDataC"
+- "8RNCharts19CombinedDataExtractC"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "8RNCharts11DataExtractC"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SH"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- "8RNCharts15LineDataExtractC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sm"
+- !private "SY"
+- "8RNCharts18ScatterDataExtractC"
+- !private "ST"
+- !private "s12StaticStringV"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNBarLineChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNYAxisChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTLog.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-Bridging-Header.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/UIView+React.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Swift Compatibility Header/Charts-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFont.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "492bbbcc0403a5e9ab3ae7976e654007"

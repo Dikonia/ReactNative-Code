@@ -1,0 +1,963 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CandleDataExtract"
+provides-nominal:
+- "8RNCharts17CandleDataExtractC"
+provides-member:
+- ["8RNCharts17CandleDataExtractC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "+"
+- !private "=="
+- !private "AnyObject"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "CGFloat"
+- !private "CandleChartData"
+- "CandleChartDataEntry"
+- !private "CandleChartDataSet"
+- "CandleDataExtract"
+- "CastingPrecedence"
+- "ChartData"
+- "ChartDataEntry"
+- !private "ChartDataSetConfigUtils"
+- "DataExtract"
+- !private "Double"
+- !private "FloatLiteralType"
+- "IChartDataSet"
+- "Int"
+- !private "IntegerLiteralType"
+- "JSON"
+- !private "RCTConvert"
+- "String"
+- !private "StringLiteralType"
+- !private "UnicodeScalarType"
+- !private "fatalError"
+- !private "||"
+depends-member:
+- !private ["Sa", "description"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "description"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["6Charts35BarLineScatterCandleBubbleChartDataC", "init"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "barSpace"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "decreasingColor"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "decreasingFilled"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "increasingColor"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "increasingFilled"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "neutralColor"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "shadowColor"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "shadowColorSameAsCandle"]
+- !private ["6Charts38BarLineScatterCandleBubbleChartDataSetC", "shadowWidth"]
+- !private ["SK", "barSpace"]
+- !private ["SK", "bool"]
+- !private ["SK", "boolValue"]
+- !private ["SK", "decreasingColor"]
+- !private ["SK", "decreasingFilled"]
+- !private ["SK", "description"]
+- !private ["SK", "double"]
+- !private ["SK", "doubleValue"]
+- !private ["SK", "float"]
+- !private ["SK", "floatValue"]
+- !private ["SK", "increasingColor"]
+- !private ["SK", "increasingFilled"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "int"]
+- !private ["SK", "intValue"]
+- !private ["SK", "lowercased"]
+- !private ["SK", "neutralColor"]
+- !private ["SK", "number"]
+- !private ["SK", "shadowColor"]
+- !private ["SK", "shadowColorSameAsCandle"]
+- !private ["SK", "shadowWidth"]
+- !private ["SK", "string"]
+- !private ["SK", "stringValue"]
+- !private ["SK", "subscript"]
+- !private ["SB", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "barSpace"]
+- !private ["s7CVarArgP", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["s7CVarArgP", "commonConfig"]
+- !private ["s7CVarArgP", "commonLineScatterCandleRadarConfig"]
+- !private ["s7CVarArgP", "decreasingColor"]
+- !private ["s7CVarArgP", "decreasingFilled"]
+- !private ["s7CVarArgP", "description"]
+- !private ["s7CVarArgP", "increasingColor"]
+- !private ["s7CVarArgP", "increasingFilled"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lowercased"]
+- !private ["s7CVarArgP", "neutralColor"]
+- !private ["s7CVarArgP", "shadowColor"]
+- !private ["s7CVarArgP", "shadowColorSameAsCandle"]
+- !private ["s7CVarArgP", "shadowWidth"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "uiColor"]
+- !private ["6Charts15CandleChartDataC", "init"]
+- !private ["6Charts20CandleChartDataEntryC", "init"]
+- !private ["6Charts18CandleChartDataSetC", "barSpace"]
+- !private ["6Charts18CandleChartDataSetC", "decreasingColor"]
+- !private ["6Charts18CandleChartDataSetC", "decreasingFilled"]
+- !private ["6Charts18CandleChartDataSetC", "increasingColor"]
+- !private ["6Charts18CandleChartDataSetC", "increasingFilled"]
+- !private ["6Charts18CandleChartDataSetC", "init"]
+- !private ["6Charts18CandleChartDataSetC", "neutralColor"]
+- !private ["6Charts18CandleChartDataSetC", "shadowColor"]
+- !private ["6Charts18CandleChartDataSetC", "shadowColorSameAsCandle"]
+- !private ["6Charts18CandleChartDataSetC", "shadowWidth"]
+- !private ["8RNCharts17CandleDataExtractC", "AnyObject"]
+- !private ["8RNCharts17CandleDataExtractC", "CGFloat"]
+- !private ["8RNCharts17CandleDataExtractC", "CandleChartData"]
+- ["8RNCharts17CandleDataExtractC", "CandleChartDataEntry"]
+- !private ["8RNCharts17CandleDataExtractC", "CandleChartDataSet"]
+- ["8RNCharts17CandleDataExtractC", "ChartData"]
+- ["8RNCharts17CandleDataExtractC", "ChartDataEntry"]
+- !private ["8RNCharts17CandleDataExtractC", "ChartDataSetConfigUtils"]
+- !private ["8RNCharts17CandleDataExtractC", "Double"]
+- ["8RNCharts17CandleDataExtractC", "IChartDataSet"]
+- ["8RNCharts17CandleDataExtractC", "Int"]
+- ["8RNCharts17CandleDataExtractC", "JSON"]
+- !private ["8RNCharts17CandleDataExtractC", "RCTConvert"]
+- ["8RNCharts17CandleDataExtractC", "String"]
+- ["8RNCharts17CandleDataExtractC", "createData"]
+- ["8RNCharts17CandleDataExtractC", "createDataSet"]
+- ["8RNCharts17CandleDataExtractC", "createEntry"]
+- ["8RNCharts17CandleDataExtractC", "dataSetConfig"]
+- !private ["8RNCharts17CandleDataExtractC", "fatalError"]
+- ["8RNCharts17CandleDataExtractC", "init"]
+- !private ["6Charts16ChartBaseDataSetC", "barSpace"]
+- !private ["6Charts16ChartBaseDataSetC", "decreasingColor"]
+- !private ["6Charts16ChartBaseDataSetC", "decreasingFilled"]
+- !private ["6Charts16ChartBaseDataSetC", "increasingColor"]
+- !private ["6Charts16ChartBaseDataSetC", "increasingFilled"]
+- !private ["6Charts16ChartBaseDataSetC", "neutralColor"]
+- !private ["6Charts16ChartBaseDataSetC", "shadowColor"]
+- !private ["6Charts16ChartBaseDataSetC", "shadowColorSameAsCandle"]
+- !private ["6Charts16ChartBaseDataSetC", "shadowWidth"]
+- !private ["6Charts9ChartDataC", "init"]
+- !private ["6Charts12ChartDataSetC", "barSpace"]
+- !private ["6Charts12ChartDataSetC", "decreasingColor"]
+- !private ["6Charts12ChartDataSetC", "decreasingFilled"]
+- !private ["6Charts12ChartDataSetC", "increasingColor"]
+- !private ["6Charts12ChartDataSetC", "increasingFilled"]
+- !private ["6Charts12ChartDataSetC", "neutralColor"]
+- !private ["6Charts12ChartDataSetC", "shadowColor"]
+- !private ["6Charts12ChartDataSetC", "shadowColorSameAsCandle"]
+- !private ["6Charts12ChartDataSetC", "shadowWidth"]
+- !private ["8RNCharts23ChartDataSetConfigUtilsC", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["8RNCharts23ChartDataSetConfigUtilsC", "commonConfig"]
+- !private ["8RNCharts23ChartDataSetConfigUtilsC", "commonLineScatterCandleRadarConfig"]
+- !private ["Sl", "barSpace"]
+- !private ["Sl", "bool"]
+- !private ["Sl", "boolValue"]
+- !private ["Sl", "decreasingColor"]
+- !private ["Sl", "decreasingFilled"]
+- !private ["Sl", "description"]
+- !private ["Sl", "double"]
+- !private ["Sl", "doubleValue"]
+- !private ["Sl", "float"]
+- !private ["Sl", "floatValue"]
+- !private ["Sl", "increasingColor"]
+- !private ["Sl", "increasingFilled"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "int"]
+- !private ["Sl", "intValue"]
+- !private ["Sl", "lowercased"]
+- !private ["Sl", "neutralColor"]
+- !private ["Sl", "number"]
+- !private ["Sl", "shadowColor"]
+- !private ["Sl", "shadowColorSameAsCandle"]
+- !private ["Sl", "shadowWidth"]
+- !private ["Sl", "string"]
+- !private ["Sl", "stringValue"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "bool"]
+- !private ["SL", "boolValue"]
+- !private ["SL", "double"]
+- !private ["SL", "doubleValue"]
+- !private ["SL", "float"]
+- !private ["SL", "floatValue"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "int"]
+- !private ["SL", "intValue"]
+- !private ["SL", "lowercased"]
+- !private ["SL", "number"]
+- !private ["SL", "string"]
+- !private ["SL", "stringValue"]
+- !private ["SL", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "barSpace"]
+- !private ["s28CustomDebugStringConvertibleP", "bool"]
+- !private ["s28CustomDebugStringConvertibleP", "boolValue"]
+- !private ["s28CustomDebugStringConvertibleP", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["s28CustomDebugStringConvertibleP", "commonConfig"]
+- !private ["s28CustomDebugStringConvertibleP", "commonLineScatterCandleRadarConfig"]
+- !private ["s28CustomDebugStringConvertibleP", "decreasingColor"]
+- !private ["s28CustomDebugStringConvertibleP", "decreasingFilled"]
+- !private ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "double"]
+- !private ["s28CustomDebugStringConvertibleP", "doubleValue"]
+- !private ["s28CustomDebugStringConvertibleP", "float"]
+- !private ["s28CustomDebugStringConvertibleP", "floatValue"]
+- !private ["s28CustomDebugStringConvertibleP", "increasingColor"]
+- !private ["s28CustomDebugStringConvertibleP", "increasingFilled"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "int"]
+- !private ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "lowercased"]
+- !private ["s28CustomDebugStringConvertibleP", "neutralColor"]
+- !private ["s28CustomDebugStringConvertibleP", "number"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowColor"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowColorSameAsCandle"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "uiColor"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "lowercased"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "description"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "lowercased"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "barSpace"]
+- !private ["s23CustomStringConvertibleP", "bool"]
+- !private ["s23CustomStringConvertibleP", "boolValue"]
+- !private ["s23CustomStringConvertibleP", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["s23CustomStringConvertibleP", "commonConfig"]
+- !private ["s23CustomStringConvertibleP", "commonLineScatterCandleRadarConfig"]
+- !private ["s23CustomStringConvertibleP", "decreasingColor"]
+- !private ["s23CustomStringConvertibleP", "decreasingFilled"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "double"]
+- !private ["s23CustomStringConvertibleP", "doubleValue"]
+- !private ["s23CustomStringConvertibleP", "float"]
+- !private ["s23CustomStringConvertibleP", "floatValue"]
+- !private ["s23CustomStringConvertibleP", "increasingColor"]
+- !private ["s23CustomStringConvertibleP", "increasingFilled"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "int"]
+- !private ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "lowercased"]
+- !private ["s23CustomStringConvertibleP", "neutralColor"]
+- !private ["s23CustomStringConvertibleP", "number"]
+- !private ["s23CustomStringConvertibleP", "shadowColor"]
+- !private ["s23CustomStringConvertibleP", "shadowColorSameAsCandle"]
+- !private ["s23CustomStringConvertibleP", "shadowWidth"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "uiColor"]
+- !private ["8RNCharts11DataExtractC", "AnyObject"]
+- !private ["8RNCharts11DataExtractC", "CGFloat"]
+- !private ["8RNCharts11DataExtractC", "CandleChartData"]
+- ["8RNCharts11DataExtractC", "CandleChartDataEntry"]
+- !private ["8RNCharts11DataExtractC", "CandleChartDataSet"]
+- ["8RNCharts11DataExtractC", "ChartData"]
+- ["8RNCharts11DataExtractC", "ChartDataEntry"]
+- !private ["8RNCharts11DataExtractC", "ChartDataSetConfigUtils"]
+- !private ["8RNCharts11DataExtractC", "Double"]
+- ["8RNCharts11DataExtractC", "IChartDataSet"]
+- ["8RNCharts11DataExtractC", "Int"]
+- ["8RNCharts11DataExtractC", "JSON"]
+- !private ["8RNCharts11DataExtractC", "RCTConvert"]
+- ["8RNCharts11DataExtractC", "String"]
+- ["8RNCharts11DataExtractC", ""]
+- ["8RNCharts11DataExtractC", "createData"]
+- ["8RNCharts11DataExtractC", "createDataSet"]
+- ["8RNCharts11DataExtractC", "createEntry"]
+- ["8RNCharts11DataExtractC", "dataSetConfig"]
+- !private ["8RNCharts11DataExtractC", "fatalError"]
+- ["8RNCharts11DataExtractC", "init"]
+- !private ["8RNCharts11DataExtractC", "init"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "bool"]
+- !private ["Se", "boolValue"]
+- !private ["Se", "description"]
+- !private ["Se", "double"]
+- !private ["Se", "doubleValue"]
+- !private ["Se", "float"]
+- !private ["Se", "floatValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "int"]
+- !private ["Se", "intValue"]
+- !private ["Se", "lowercased"]
+- !private ["Se", "number"]
+- !private ["Se", "string"]
+- !private ["Se", "stringValue"]
+- !private ["Se", "subscript"]
+- !private ["Sd", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "bool"]
+- !private ["SE", "boolValue"]
+- !private ["SE", "description"]
+- !private ["SE", "double"]
+- !private ["SE", "doubleValue"]
+- !private ["SE", "float"]
+- !private ["SE", "floatValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "int"]
+- !private ["SE", "intValue"]
+- !private ["SE", "lowercased"]
+- !private ["SE", "number"]
+- !private ["SE", "string"]
+- !private ["SE", "stringValue"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "barSpace"]
+- !private ["SQ", "bool"]
+- !private ["SQ", "boolValue"]
+- !private ["SQ", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["SQ", "commonConfig"]
+- !private ["SQ", "commonLineScatterCandleRadarConfig"]
+- !private ["SQ", "decreasingColor"]
+- !private ["SQ", "decreasingFilled"]
+- !private ["SQ", "description"]
+- !private ["SQ", "double"]
+- !private ["SQ", "doubleValue"]
+- !private ["SQ", "float"]
+- !private ["SQ", "floatValue"]
+- !private ["SQ", "increasingColor"]
+- !private ["SQ", "increasingFilled"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "int"]
+- !private ["SQ", "intValue"]
+- !private ["SQ", "lowercased"]
+- !private ["SQ", "neutralColor"]
+- !private ["SQ", "number"]
+- !private ["SQ", "shadowColor"]
+- !private ["SQ", "shadowColorSameAsCandle"]
+- !private ["SQ", "shadowWidth"]
+- !private ["SQ", "string"]
+- !private ["SQ", "stringValue"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "uiColor"]
+- !private ["s25ExpressibleByArrayLiteralP", "bool"]
+- !private ["s25ExpressibleByArrayLiteralP", "boolValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "description"]
+- !private ["s25ExpressibleByArrayLiteralP", "double"]
+- !private ["s25ExpressibleByArrayLiteralP", "doubleValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "float"]
+- !private ["s25ExpressibleByArrayLiteralP", "floatValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "int"]
+- !private ["s25ExpressibleByArrayLiteralP", "intValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "number"]
+- !private ["s25ExpressibleByArrayLiteralP", "string"]
+- !private ["s25ExpressibleByArrayLiteralP", "stringValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "bool"]
+- !private ["s27ExpressibleByBooleanLiteralP", "boolValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "double"]
+- !private ["s27ExpressibleByBooleanLiteralP", "doubleValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "float"]
+- !private ["s27ExpressibleByBooleanLiteralP", "floatValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "int"]
+- !private ["s27ExpressibleByBooleanLiteralP", "intValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "number"]
+- !private ["s27ExpressibleByBooleanLiteralP", "string"]
+- !private ["s27ExpressibleByBooleanLiteralP", "stringValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "bool"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "boolValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "double"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "doubleValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "float"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "floatValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "int"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "intValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "number"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "string"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "stringValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "bool"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "boolValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "double"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "doubleValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "float"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "floatValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "int"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "intValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "number"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "string"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "stringValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "bool"]
+- !private ["s25ExpressibleByFloatLiteralP", "boolValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "double"]
+- !private ["s25ExpressibleByFloatLiteralP", "doubleValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "float"]
+- !private ["s25ExpressibleByFloatLiteralP", "floatValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "int"]
+- !private ["s25ExpressibleByFloatLiteralP", "intValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "number"]
+- !private ["s25ExpressibleByFloatLiteralP", "string"]
+- !private ["s25ExpressibleByFloatLiteralP", "stringValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "bool"]
+- !private ["s27ExpressibleByIntegerLiteralP", "boolValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "double"]
+- !private ["s27ExpressibleByIntegerLiteralP", "doubleValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "float"]
+- !private ["s27ExpressibleByIntegerLiteralP", "floatValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "int"]
+- !private ["s27ExpressibleByIntegerLiteralP", "intValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "number"]
+- !private ["s27ExpressibleByIntegerLiteralP", "string"]
+- !private ["s27ExpressibleByIntegerLiteralP", "stringValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "bool"]
+- !private ["s26ExpressibleByStringLiteralP", "boolValue"]
+- !private ["s26ExpressibleByStringLiteralP", "double"]
+- !private ["s26ExpressibleByStringLiteralP", "doubleValue"]
+- !private ["s26ExpressibleByStringLiteralP", "float"]
+- !private ["s26ExpressibleByStringLiteralP", "floatValue"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "int"]
+- !private ["s26ExpressibleByStringLiteralP", "intValue"]
+- !private ["s26ExpressibleByStringLiteralP", "lowercased"]
+- !private ["s26ExpressibleByStringLiteralP", "number"]
+- !private ["s26ExpressibleByStringLiteralP", "string"]
+- !private ["s26ExpressibleByStringLiteralP", "stringValue"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "bool"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "boolValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "double"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "doubleValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "float"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "floatValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "int"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "intValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "lowercased"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "number"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "string"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "stringValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["SF", "init"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "barSpace"]
+- !private ["SH", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["SH", "commonConfig"]
+- !private ["SH", "commonLineScatterCandleRadarConfig"]
+- !private ["SH", "decreasingColor"]
+- !private ["SH", "decreasingFilled"]
+- !private ["SH", "description"]
+- !private ["SH", "increasingColor"]
+- !private ["SH", "increasingFilled"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "lowercased"]
+- !private ["SH", "neutralColor"]
+- !private ["SH", "shadowColor"]
+- !private ["SH", "shadowColorSameAsCandle"]
+- !private ["SH", "shadowWidth"]
+- !private ["SH", "subscript"]
+- !private ["SH", "uiColor"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "barSpace"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "decreasingColor"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "decreasingFilled"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "increasingColor"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "increasingFilled"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "init"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "neutralColor"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "shadowColor"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "shadowColorSameAsCandle"]
+- !private ["6Charts39IBarLineScatterCandleBubbleChartDataSetP", "shadowWidth"]
+- !private ["6Charts19ICandleChartDataSetP", "barSpace"]
+- !private ["6Charts19ICandleChartDataSetP", "decreasingColor"]
+- !private ["6Charts19ICandleChartDataSetP", "decreasingFilled"]
+- !private ["6Charts19ICandleChartDataSetP", "increasingColor"]
+- !private ["6Charts19ICandleChartDataSetP", "increasingFilled"]
+- !private ["6Charts19ICandleChartDataSetP", "init"]
+- !private ["6Charts19ICandleChartDataSetP", "neutralColor"]
+- !private ["6Charts19ICandleChartDataSetP", "shadowColor"]
+- !private ["6Charts19ICandleChartDataSetP", "shadowColorSameAsCandle"]
+- !private ["6Charts19ICandleChartDataSetP", "shadowWidth"]
+- !private ["6Charts13IChartDataSetP", "barSpace"]
+- !private ["6Charts13IChartDataSetP", "decreasingColor"]
+- !private ["6Charts13IChartDataSetP", "decreasingFilled"]
+- !private ["6Charts13IChartDataSetP", "increasingColor"]
+- !private ["6Charts13IChartDataSetP", "increasingFilled"]
+- !private ["6Charts13IChartDataSetP", "init"]
+- !private ["6Charts13IChartDataSetP", "neutralColor"]
+- !private ["6Charts13IChartDataSetP", "shadowColor"]
+- !private ["6Charts13IChartDataSetP", "shadowColorSameAsCandle"]
+- !private ["6Charts13IChartDataSetP", "shadowWidth"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "barSpace"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "decreasingColor"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "decreasingFilled"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "increasingColor"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "increasingFilled"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "init"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "neutralColor"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "shadowColor"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "shadowColorSameAsCandle"]
+- !private ["6Charts35ILineScatterCandleRadarChartDataSetP", "shadowWidth"]
+- !private ["10SwiftyJSON0B0V", "bool"]
+- !private ["10SwiftyJSON0B0V", "boolValue"]
+- !private ["10SwiftyJSON0B0V", "double"]
+- !private ["10SwiftyJSON0B0V", "doubleValue"]
+- !private ["10SwiftyJSON0B0V", "float"]
+- !private ["10SwiftyJSON0B0V", "floatValue"]
+- !private ["10SwiftyJSON0B0V", "int"]
+- !private ["10SwiftyJSON0B0V", "intValue"]
+- !private ["10SwiftyJSON0B0V", "number"]
+- !private ["10SwiftyJSON0B0V", "string"]
+- !private ["10SwiftyJSON0B0V", "stringValue"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "lowercased"]
+- !private ["s22LazyCollectionProtocolP", "bool"]
+- !private ["s22LazyCollectionProtocolP", "boolValue"]
+- !private ["s22LazyCollectionProtocolP", "double"]
+- !private ["s22LazyCollectionProtocolP", "doubleValue"]
+- !private ["s22LazyCollectionProtocolP", "float"]
+- !private ["s22LazyCollectionProtocolP", "floatValue"]
+- !private ["s22LazyCollectionProtocolP", "int"]
+- !private ["s22LazyCollectionProtocolP", "intValue"]
+- !private ["s22LazyCollectionProtocolP", "number"]
+- !private ["s22LazyCollectionProtocolP", "string"]
+- !private ["s22LazyCollectionProtocolP", "stringValue"]
+- !private ["s20LazySequenceProtocolP", "bool"]
+- !private ["s20LazySequenceProtocolP", "boolValue"]
+- !private ["s20LazySequenceProtocolP", "double"]
+- !private ["s20LazySequenceProtocolP", "doubleValue"]
+- !private ["s20LazySequenceProtocolP", "float"]
+- !private ["s20LazySequenceProtocolP", "floatValue"]
+- !private ["s20LazySequenceProtocolP", "int"]
+- !private ["s20LazySequenceProtocolP", "intValue"]
+- !private ["s20LazySequenceProtocolP", "number"]
+- !private ["s20LazySequenceProtocolP", "string"]
+- !private ["s20LazySequenceProtocolP", "stringValue"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "barSpace"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "decreasingColor"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "decreasingFilled"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "increasingColor"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "increasingFilled"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "neutralColor"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "shadowColor"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "shadowColorSameAsCandle"]
+- !private ["6Charts34LineScatterCandleRadarChartDataSetC", "shadowWidth"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "lowercased"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "lowercased"]
+- !private ["SM", "barSpace"]
+- !private ["SM", "bool"]
+- !private ["SM", "boolValue"]
+- !private ["SM", "decreasingColor"]
+- !private ["SM", "decreasingFilled"]
+- !private ["SM", "description"]
+- !private ["SM", "double"]
+- !private ["SM", "doubleValue"]
+- !private ["SM", "float"]
+- !private ["SM", "floatValue"]
+- !private ["SM", "increasingColor"]
+- !private ["SM", "increasingFilled"]
+- !private ["SM", "init"]
+- !private ["SM", "int"]
+- !private ["SM", "intValue"]
+- !private ["SM", "neutralColor"]
+- !private ["SM", "number"]
+- !private ["SM", "shadowColor"]
+- !private ["SM", "shadowColorSameAsCandle"]
+- !private ["SM", "shadowWidth"]
+- !private ["SM", "string"]
+- !private ["SM", "stringValue"]
+- !private ["SM", "subscript"]
+- !private ["So8NSCodingP", "lowercased"]
+- !private ["So9NSCopyingP", "barSpace"]
+- !private ["So9NSCopyingP", "decreasingColor"]
+- !private ["So9NSCopyingP", "decreasingFilled"]
+- !private ["So9NSCopyingP", "increasingColor"]
+- !private ["So9NSCopyingP", "increasingFilled"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "lowercased"]
+- !private ["So9NSCopyingP", "neutralColor"]
+- !private ["So9NSCopyingP", "shadowColor"]
+- !private ["So9NSCopyingP", "shadowColorSameAsCandle"]
+- !private ["So9NSCopyingP", "shadowWidth"]
+- !private ["So21NSItemProviderReadingP", "lowercased"]
+- !private ["So21NSItemProviderWritingP", "lowercased"]
+- !private ["So16NSMutableCopyingP", "lowercased"]
+- !private ["So8NSObjectC", "barSpace"]
+- !private ["So8NSObjectC", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["So8NSObjectC", "commonConfig"]
+- !private ["So8NSObjectC", "commonLineScatterCandleRadarConfig"]
+- !private ["So8NSObjectC", "decreasingColor"]
+- !private ["So8NSObjectC", "decreasingFilled"]
+- !private ["So8NSObjectC", "increasingColor"]
+- !private ["So8NSObjectC", "increasingFilled"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lowercased"]
+- !private ["So8NSObjectC", "neutralColor"]
+- !private ["So8NSObjectC", "shadowColor"]
+- !private ["So8NSObjectC", "shadowColorSameAsCandle"]
+- !private ["So8NSObjectC", "shadowWidth"]
+- !private ["So8NSObjectC", "uiColor"]
+- !private ["So8NSObjectP", "barSpace"]
+- !private ["So8NSObjectP", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["So8NSObjectP", "commonConfig"]
+- !private ["So8NSObjectP", "commonLineScatterCandleRadarConfig"]
+- !private ["So8NSObjectP", "decreasingColor"]
+- !private ["So8NSObjectP", "decreasingFilled"]
+- !private ["So8NSObjectP", "increasingColor"]
+- !private ["So8NSObjectP", "increasingFilled"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lowercased"]
+- !private ["So8NSObjectP", "neutralColor"]
+- !private ["So8NSObjectP", "shadowColor"]
+- !private ["So8NSObjectP", "shadowColorSameAsCandle"]
+- !private ["So8NSObjectP", "shadowWidth"]
+- !private ["So8NSObjectP", "uiColor"]
+- !private ["So14NSSecureCodingP", "lowercased"]
+- !private ["So8NSStringC", "lowercased"]
+- !private ["Sj", "init"]
+- !private ["So10RCTConvertC", "uiColor"]
+- !private ["Sk", "barSpace"]
+- !private ["Sk", "bool"]
+- !private ["Sk", "boolValue"]
+- !private ["Sk", "decreasingColor"]
+- !private ["Sk", "decreasingFilled"]
+- !private ["Sk", "description"]
+- !private ["Sk", "double"]
+- !private ["Sk", "doubleValue"]
+- !private ["Sk", "float"]
+- !private ["Sk", "floatValue"]
+- !private ["Sk", "increasingColor"]
+- !private ["Sk", "increasingFilled"]
+- !private ["Sk", "init"]
+- !private ["Sk", "int"]
+- !private ["Sk", "intValue"]
+- !private ["Sk", "neutralColor"]
+- !private ["Sk", "number"]
+- !private ["Sk", "shadowColor"]
+- !private ["Sk", "shadowColorSameAsCandle"]
+- !private ["Sk", "shadowWidth"]
+- !private ["Sk", "string"]
+- !private ["Sk", "stringValue"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "barSpace"]
+- !private ["Sm", "bool"]
+- !private ["Sm", "boolValue"]
+- !private ["Sm", "decreasingColor"]
+- !private ["Sm", "decreasingFilled"]
+- !private ["Sm", "description"]
+- !private ["Sm", "double"]
+- !private ["Sm", "doubleValue"]
+- !private ["Sm", "float"]
+- !private ["Sm", "floatValue"]
+- !private ["Sm", "increasingColor"]
+- !private ["Sm", "increasingFilled"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "int"]
+- !private ["Sm", "intValue"]
+- !private ["Sm", "lowercased"]
+- !private ["Sm", "neutralColor"]
+- !private ["Sm", "number"]
+- !private ["Sm", "shadowColor"]
+- !private ["Sm", "shadowColorSameAsCandle"]
+- !private ["Sm", "shadowWidth"]
+- !private ["Sm", "string"]
+- !private ["Sm", "stringValue"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "bool"]
+- !private ["SY", "boolValue"]
+- !private ["SY", "double"]
+- !private ["SY", "doubleValue"]
+- !private ["SY", "float"]
+- !private ["SY", "floatValue"]
+- !private ["SY", "int"]
+- !private ["SY", "intValue"]
+- !private ["SY", "number"]
+- !private ["SY", "string"]
+- !private ["SY", "stringValue"]
+- !private ["SY", "subscript"]
+- !private ["ST", "barSpace"]
+- !private ["ST", "bool"]
+- !private ["ST", "boolValue"]
+- !private ["ST", "decreasingColor"]
+- !private ["ST", "decreasingFilled"]
+- !private ["ST", "description"]
+- !private ["ST", "double"]
+- !private ["ST", "doubleValue"]
+- !private ["ST", "float"]
+- !private ["ST", "floatValue"]
+- !private ["ST", "increasingColor"]
+- !private ["ST", "increasingFilled"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "int"]
+- !private ["ST", "intValue"]
+- !private ["ST", "lowercased"]
+- !private ["ST", "neutralColor"]
+- !private ["ST", "number"]
+- !private ["ST", "shadowColor"]
+- !private ["ST", "shadowColorSameAsCandle"]
+- !private ["ST", "shadowWidth"]
+- !private ["ST", "string"]
+- !private ["ST", "stringValue"]
+- !private ["ST", "subscript"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s5SliceV", "bool"]
+- !private ["s5SliceV", "boolValue"]
+- !private ["s5SliceV", "double"]
+- !private ["s5SliceV", "doubleValue"]
+- !private ["s5SliceV", "float"]
+- !private ["s5SliceV", "floatValue"]
+- !private ["s5SliceV", "int"]
+- !private ["s5SliceV", "intValue"]
+- !private ["s5SliceV", "number"]
+- !private ["s5SliceV", "string"]
+- !private ["s5SliceV", "stringValue"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "lowercased"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "lowercased"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "lowercased"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "lowercased"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s24_DestructorSafeContainerP", "description"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "lowercased"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "lowercased"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "lowercased"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "description"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barSpace"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commonBarLineScatterCandleBubbleConfig"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commonConfig"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commonLineScatterCandleRadarConfig"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "decreasingColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "decreasingFilled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "increasingColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "increasingFilled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lowercased"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "neutralColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowColorSameAsCandle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uiColor"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "description"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "lowercased"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "lowercased"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "6Charts35BarLineScatterCandleBubbleChartDataC"
+- !private "6Charts38BarLineScatterCandleBubbleChartDataSetC"
+- !private "SK"
+- !private "SB"
+- !private "Sb"
+- !private "12CoreGraphics7CGFloatV"
+- !private "s7CVarArgP"
+- !private "6Charts15CandleChartDataC"
+- !private "6Charts20CandleChartDataEntryC"
+- !private "6Charts18CandleChartDataSetC"
+- "8RNCharts17CandleDataExtractC"
+- !private "6Charts16ChartBaseDataSetC"
+- !private "6Charts9ChartDataC"
+- !private "6Charts12ChartDataSetC"
+- !private "8RNCharts23ChartDataSetConfigUtilsC"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "8RNCharts11DataExtractC"
+- !private "Se"
+- !private "Sd"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SF"
+- !private "SH"
+- !private "6Charts39IBarLineScatterCandleBubbleChartDataSetP"
+- !private "6Charts19ICandleChartDataSetP"
+- !private "6Charts13IChartDataSetP"
+- !private "6Charts35ILineScatterCandleRadarChartDataSetP"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s22LazyCollectionProtocolP"
+- !private "s20LazySequenceProtocolP"
+- !private "6Charts34LineScatterCandleRadarChartDataSetC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sj"
+- !private "So10RCTConvertC"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "s5SliceV"
+- !private "s12StaticStringV"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNBarLineChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNYAxisChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTLog.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-Bridging-Header.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/UIView+React.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Swift Compatibility Header/Charts-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFont.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "48f399360d7cb41f2cd7c7917ca91adc"

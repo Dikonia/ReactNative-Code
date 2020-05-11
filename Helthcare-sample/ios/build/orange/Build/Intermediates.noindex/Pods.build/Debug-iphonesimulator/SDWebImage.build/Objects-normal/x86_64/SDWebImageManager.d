@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageManager.m \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Target\ Support\ Files/SDWebImage/SDWebImage-prefix.pch \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageManager.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageCompat.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageOperation.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDImageCacheDefine.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageDefine.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDImageLoader.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDImageTransformer.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/UIImage+Transform.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageCacheKeyFilter.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageCacheSerializer.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageOptionsProcessor.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDImageCache.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDImageCacheConfig.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDMemoryCache.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDDiskCache.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloader.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderConfig.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderRequestModifier.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderResponseModifier.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageDownloaderDecryptor.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/UIImage+Metadata.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/NSData+ImageContentType.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Private/SDAssociatedObject.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Core/SDWebImageError.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Private/SDInternalMacros.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SDWebImage/SDWebImage/Private/SDmetamacros.h

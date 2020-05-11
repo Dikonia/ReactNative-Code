@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "e8fe23482c7ea51a18b7861a4958fb7b"
+build_time: [1588772214, 946271000]
+inputs:
+  "/Users/dikonia/Desktop/mphhealth-mobile/ios/emptyfile.swift": [1586325780, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "49296ebac79ef151a85af7d0a9554e7e"
+build_time: [1588770584, 680696000]
+inputs:
+  "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1586319544, 0]

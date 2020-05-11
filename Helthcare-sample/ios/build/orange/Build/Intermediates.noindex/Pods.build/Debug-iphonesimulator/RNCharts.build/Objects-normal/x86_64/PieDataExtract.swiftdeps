@@ -1,0 +1,881 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PieDataExtract"
+provides-nominal:
+- "8RNCharts14PieDataExtractC"
+provides-member:
+- ["8RNCharts14PieDataExtractC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "+"
+- !private "AnyObject"
+- "AssignmentPrecedence"
+- !private "BridgeUtils"
+- !private "CGFloat"
+- "CastingPrecedence"
+- "ChartData"
+- "ChartDataEntry"
+- !private "ChartDataSetConfigUtils"
+- "DataExtract"
+- !private "Double"
+- !private "FloatLiteralType"
+- "IChartDataSet"
+- "Int"
+- !private "IntegerLiteralType"
+- "JSON"
+- !private "PieChartData"
+- !private "PieChartDataEntry"
+- !private "PieChartDataSet"
+- "PieDataExtract"
+- !private "RCTConvert"
+- "String"
+- !private "StringLiteralType"
+- !private "fatalError"
+depends-member:
+- !private ["Sa", "description"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "description"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["SK", "bool"]
+- !private ["SK", "boolValue"]
+- !private ["SK", "description"]
+- !private ["SK", "double"]
+- !private ["SK", "doubleValue"]
+- !private ["SK", "float"]
+- !private ["SK", "floatValue"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["SK", "int"]
+- !private ["SK", "intValue"]
+- !private ["SK", "selectionShift"]
+- !private ["SK", "sliceSpace"]
+- !private ["SK", "string"]
+- !private ["SK", "stringValue"]
+- !private ["SK", "subscript"]
+- !private ["SK", "valueLineColor"]
+- !private ["SK", "valueLinePart1Length"]
+- !private ["SK", "valueLinePart1OffsetPercentage"]
+- !private ["SK", "valueLinePart2Length"]
+- !private ["SK", "valueLineVariableLength"]
+- !private ["SK", "valueLineWidth"]
+- !private ["SK", "xValuePosition"]
+- !private ["SK", "yValuePosition"]
+- !private ["SB", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["8RNCharts11BridgeUtilsC", "parsePieChartDataSetValuePosition"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "commonConfig"]
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "description"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "selectionShift"]
+- !private ["s7CVarArgP", "sliceSpace"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "uiColor"]
+- !private ["s7CVarArgP", "valueLineColor"]
+- !private ["s7CVarArgP", "valueLinePart1Length"]
+- !private ["s7CVarArgP", "valueLinePart1OffsetPercentage"]
+- !private ["s7CVarArgP", "valueLinePart2Length"]
+- !private ["s7CVarArgP", "valueLineVariableLength"]
+- !private ["s7CVarArgP", "valueLineWidth"]
+- !private ["s7CVarArgP", "xValuePosition"]
+- !private ["s7CVarArgP", "yValuePosition"]
+- !private ["6Charts16ChartBaseDataSetC", "selectionShift"]
+- !private ["6Charts16ChartBaseDataSetC", "sliceSpace"]
+- !private ["6Charts16ChartBaseDataSetC", "valueLineColor"]
+- !private ["6Charts16ChartBaseDataSetC", "valueLinePart1Length"]
+- !private ["6Charts16ChartBaseDataSetC", "valueLinePart1OffsetPercentage"]
+- !private ["6Charts16ChartBaseDataSetC", "valueLinePart2Length"]
+- !private ["6Charts16ChartBaseDataSetC", "valueLineVariableLength"]
+- !private ["6Charts16ChartBaseDataSetC", "valueLineWidth"]
+- !private ["6Charts16ChartBaseDataSetC", "xValuePosition"]
+- !private ["6Charts16ChartBaseDataSetC", "yValuePosition"]
+- !private ["6Charts9ChartDataC", "init"]
+- !private ["6Charts14ChartDataEntryC", "data"]
+- !private ["6Charts18ChartDataEntryBaseC", "data"]
+- !private ["6Charts12ChartDataSetC", "selectionShift"]
+- !private ["6Charts12ChartDataSetC", "sliceSpace"]
+- !private ["6Charts12ChartDataSetC", "valueLineColor"]
+- !private ["6Charts12ChartDataSetC", "valueLinePart1Length"]
+- !private ["6Charts12ChartDataSetC", "valueLinePart1OffsetPercentage"]
+- !private ["6Charts12ChartDataSetC", "valueLinePart2Length"]
+- !private ["6Charts12ChartDataSetC", "valueLineVariableLength"]
+- !private ["6Charts12ChartDataSetC", "valueLineWidth"]
+- !private ["6Charts12ChartDataSetC", "xValuePosition"]
+- !private ["6Charts12ChartDataSetC", "yValuePosition"]
+- !private ["8RNCharts23ChartDataSetConfigUtilsC", "commonConfig"]
+- !private ["Sl", "bool"]
+- !private ["Sl", "boolValue"]
+- !private ["Sl", "description"]
+- !private ["Sl", "dictionary"]
+- !private ["Sl", "double"]
+- !private ["Sl", "doubleValue"]
+- !private ["Sl", "float"]
+- !private ["Sl", "floatValue"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "int"]
+- !private ["Sl", "intValue"]
+- !private ["Sl", "selectionShift"]
+- !private ["Sl", "sliceSpace"]
+- !private ["Sl", "string"]
+- !private ["Sl", "stringValue"]
+- !private ["Sl", "subscript"]
+- !private ["Sl", "valueLineColor"]
+- !private ["Sl", "valueLinePart1Length"]
+- !private ["Sl", "valueLinePart1OffsetPercentage"]
+- !private ["Sl", "valueLinePart2Length"]
+- !private ["Sl", "valueLineVariableLength"]
+- !private ["Sl", "valueLineWidth"]
+- !private ["Sl", "xValuePosition"]
+- !private ["Sl", "yValuePosition"]
+- !private ["SL", "bool"]
+- !private ["SL", "boolValue"]
+- !private ["SL", "dictionary"]
+- !private ["SL", "double"]
+- !private ["SL", "doubleValue"]
+- !private ["SL", "float"]
+- !private ["SL", "floatValue"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "int"]
+- !private ["SL", "intValue"]
+- !private ["SL", "string"]
+- !private ["SL", "stringValue"]
+- !private ["SL", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "bool"]
+- !private ["s28CustomDebugStringConvertibleP", "boolValue"]
+- !private ["s28CustomDebugStringConvertibleP", "commonConfig"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- !private ["s28CustomDebugStringConvertibleP", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "dictionary"]
+- !private ["s28CustomDebugStringConvertibleP", "double"]
+- !private ["s28CustomDebugStringConvertibleP", "doubleValue"]
+- !private ["s28CustomDebugStringConvertibleP", "float"]
+- !private ["s28CustomDebugStringConvertibleP", "floatValue"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "int"]
+- !private ["s28CustomDebugStringConvertibleP", "intValue"]
+- !private ["s28CustomDebugStringConvertibleP", "selectionShift"]
+- !private ["s28CustomDebugStringConvertibleP", "sliceSpace"]
+- !private ["s28CustomDebugStringConvertibleP", "string"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "uiColor"]
+- !private ["s28CustomDebugStringConvertibleP", "valueLineColor"]
+- !private ["s28CustomDebugStringConvertibleP", "valueLinePart1Length"]
+- !private ["s28CustomDebugStringConvertibleP", "valueLinePart1OffsetPercentage"]
+- !private ["s28CustomDebugStringConvertibleP", "valueLinePart2Length"]
+- !private ["s28CustomDebugStringConvertibleP", "valueLineVariableLength"]
+- !private ["s28CustomDebugStringConvertibleP", "valueLineWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "xValuePosition"]
+- !private ["s28CustomDebugStringConvertibleP", "yValuePosition"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "description"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "bool"]
+- !private ["s23CustomStringConvertibleP", "boolValue"]
+- !private ["s23CustomStringConvertibleP", "commonConfig"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "dictionary"]
+- !private ["s23CustomStringConvertibleP", "double"]
+- !private ["s23CustomStringConvertibleP", "doubleValue"]
+- !private ["s23CustomStringConvertibleP", "float"]
+- !private ["s23CustomStringConvertibleP", "floatValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "int"]
+- !private ["s23CustomStringConvertibleP", "intValue"]
+- !private ["s23CustomStringConvertibleP", "selectionShift"]
+- !private ["s23CustomStringConvertibleP", "sliceSpace"]
+- !private ["s23CustomStringConvertibleP", "string"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "uiColor"]
+- !private ["s23CustomStringConvertibleP", "valueLineColor"]
+- !private ["s23CustomStringConvertibleP", "valueLinePart1Length"]
+- !private ["s23CustomStringConvertibleP", "valueLinePart1OffsetPercentage"]
+- !private ["s23CustomStringConvertibleP", "valueLinePart2Length"]
+- !private ["s23CustomStringConvertibleP", "valueLineVariableLength"]
+- !private ["s23CustomStringConvertibleP", "valueLineWidth"]
+- !private ["s23CustomStringConvertibleP", "xValuePosition"]
+- !private ["s23CustomStringConvertibleP", "yValuePosition"]
+- !private ["8RNCharts11DataExtractC", "AnyObject"]
+- !private ["8RNCharts11DataExtractC", "BridgeUtils"]
+- !private ["8RNCharts11DataExtractC", "CGFloat"]
+- ["8RNCharts11DataExtractC", "ChartData"]
+- ["8RNCharts11DataExtractC", "ChartDataEntry"]
+- !private ["8RNCharts11DataExtractC", "ChartDataSetConfigUtils"]
+- !private ["8RNCharts11DataExtractC", "Double"]
+- ["8RNCharts11DataExtractC", "IChartDataSet"]
+- ["8RNCharts11DataExtractC", "Int"]
+- ["8RNCharts11DataExtractC", "JSON"]
+- !private ["8RNCharts11DataExtractC", "PieChartData"]
+- !private ["8RNCharts11DataExtractC", "PieChartDataEntry"]
+- !private ["8RNCharts11DataExtractC", "PieChartDataSet"]
+- !private ["8RNCharts11DataExtractC", "RCTConvert"]
+- ["8RNCharts11DataExtractC", "String"]
+- ["8RNCharts11DataExtractC", ""]
+- ["8RNCharts11DataExtractC", "createData"]
+- ["8RNCharts11DataExtractC", "createDataSet"]
+- ["8RNCharts11DataExtractC", "createEntry"]
+- ["8RNCharts11DataExtractC", "dataSetConfig"]
+- !private ["8RNCharts11DataExtractC", "fatalError"]
+- ["8RNCharts11DataExtractC", "init"]
+- !private ["8RNCharts11DataExtractC", "init"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "bool"]
+- !private ["Se", "boolValue"]
+- !private ["Se", "description"]
+- !private ["Se", "dictionary"]
+- !private ["Se", "double"]
+- !private ["Se", "doubleValue"]
+- !private ["Se", "float"]
+- !private ["Se", "floatValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "int"]
+- !private ["Se", "intValue"]
+- !private ["Se", "string"]
+- !private ["Se", "stringValue"]
+- !private ["Se", "subscript"]
+- !private ["Sd", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "bool"]
+- !private ["SE", "boolValue"]
+- !private ["SE", "description"]
+- !private ["SE", "dictionary"]
+- !private ["SE", "double"]
+- !private ["SE", "doubleValue"]
+- !private ["SE", "float"]
+- !private ["SE", "floatValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "int"]
+- !private ["SE", "intValue"]
+- !private ["SE", "string"]
+- !private ["SE", "stringValue"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "bool"]
+- !private ["SQ", "boolValue"]
+- !private ["SQ", "commonConfig"]
+- !private ["SQ", "data"]
+- !private ["SQ", "description"]
+- !private ["SQ", "dictionary"]
+- !private ["SQ", "double"]
+- !private ["SQ", "doubleValue"]
+- !private ["SQ", "float"]
+- !private ["SQ", "floatValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "int"]
+- !private ["SQ", "intValue"]
+- !private ["SQ", "selectionShift"]
+- !private ["SQ", "sliceSpace"]
+- !private ["SQ", "string"]
+- !private ["SQ", "stringValue"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "uiColor"]
+- !private ["SQ", "valueLineColor"]
+- !private ["SQ", "valueLinePart1Length"]
+- !private ["SQ", "valueLinePart1OffsetPercentage"]
+- !private ["SQ", "valueLinePart2Length"]
+- !private ["SQ", "valueLineVariableLength"]
+- !private ["SQ", "valueLineWidth"]
+- !private ["SQ", "xValuePosition"]
+- !private ["SQ", "yValuePosition"]
+- !private ["s25ExpressibleByArrayLiteralP", "bool"]
+- !private ["s25ExpressibleByArrayLiteralP", "boolValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "description"]
+- !private ["s25ExpressibleByArrayLiteralP", "dictionary"]
+- !private ["s25ExpressibleByArrayLiteralP", "double"]
+- !private ["s25ExpressibleByArrayLiteralP", "doubleValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "float"]
+- !private ["s25ExpressibleByArrayLiteralP", "floatValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "int"]
+- !private ["s25ExpressibleByArrayLiteralP", "intValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "string"]
+- !private ["s25ExpressibleByArrayLiteralP", "stringValue"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "bool"]
+- !private ["s27ExpressibleByBooleanLiteralP", "boolValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "dictionary"]
+- !private ["s27ExpressibleByBooleanLiteralP", "double"]
+- !private ["s27ExpressibleByBooleanLiteralP", "doubleValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "float"]
+- !private ["s27ExpressibleByBooleanLiteralP", "floatValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "int"]
+- !private ["s27ExpressibleByBooleanLiteralP", "intValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "string"]
+- !private ["s27ExpressibleByBooleanLiteralP", "stringValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "bool"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "boolValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "dictionary"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "double"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "doubleValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "float"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "floatValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "int"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "intValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "string"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "stringValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "bool"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "boolValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "dictionary"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "double"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "doubleValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "float"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "floatValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "int"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "intValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "string"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "stringValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "subscript"]
+- !private ["s25ExpressibleByFloatLiteralP", "bool"]
+- !private ["s25ExpressibleByFloatLiteralP", "boolValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "dictionary"]
+- !private ["s25ExpressibleByFloatLiteralP", "double"]
+- !private ["s25ExpressibleByFloatLiteralP", "doubleValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "float"]
+- !private ["s25ExpressibleByFloatLiteralP", "floatValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "int"]
+- !private ["s25ExpressibleByFloatLiteralP", "intValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "string"]
+- !private ["s25ExpressibleByFloatLiteralP", "stringValue"]
+- !private ["s25ExpressibleByFloatLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "bool"]
+- !private ["s27ExpressibleByIntegerLiteralP", "boolValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "dictionary"]
+- !private ["s27ExpressibleByIntegerLiteralP", "double"]
+- !private ["s27ExpressibleByIntegerLiteralP", "doubleValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "float"]
+- !private ["s27ExpressibleByIntegerLiteralP", "floatValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "int"]
+- !private ["s27ExpressibleByIntegerLiteralP", "intValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "string"]
+- !private ["s27ExpressibleByIntegerLiteralP", "stringValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "subscript"]
+- !private ["s26ExpressibleByStringLiteralP", "bool"]
+- !private ["s26ExpressibleByStringLiteralP", "boolValue"]
+- !private ["s26ExpressibleByStringLiteralP", "dictionary"]
+- !private ["s26ExpressibleByStringLiteralP", "double"]
+- !private ["s26ExpressibleByStringLiteralP", "doubleValue"]
+- !private ["s26ExpressibleByStringLiteralP", "float"]
+- !private ["s26ExpressibleByStringLiteralP", "floatValue"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "int"]
+- !private ["s26ExpressibleByStringLiteralP", "intValue"]
+- !private ["s26ExpressibleByStringLiteralP", "string"]
+- !private ["s26ExpressibleByStringLiteralP", "stringValue"]
+- !private ["s26ExpressibleByStringLiteralP", "subscript"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "bool"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "boolValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "dictionary"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "double"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "doubleValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "float"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "floatValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "int"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "intValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "string"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "stringValue"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "subscript"]
+- !private ["SF", "init"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "commonConfig"]
+- !private ["SH", "data"]
+- !private ["SH", "description"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "selectionShift"]
+- !private ["SH", "sliceSpace"]
+- !private ["SH", "subscript"]
+- !private ["SH", "uiColor"]
+- !private ["SH", "valueLineColor"]
+- !private ["SH", "valueLinePart1Length"]
+- !private ["SH", "valueLinePart1OffsetPercentage"]
+- !private ["SH", "valueLinePart2Length"]
+- !private ["SH", "valueLineVariableLength"]
+- !private ["SH", "valueLineWidth"]
+- !private ["SH", "xValuePosition"]
+- !private ["SH", "yValuePosition"]
+- !private ["6Charts13IChartDataSetP", "init"]
+- !private ["6Charts13IChartDataSetP", "selectionShift"]
+- !private ["6Charts13IChartDataSetP", "sliceSpace"]
+- !private ["6Charts13IChartDataSetP", "valueLineColor"]
+- !private ["6Charts13IChartDataSetP", "valueLinePart1Length"]
+- !private ["6Charts13IChartDataSetP", "valueLinePart1OffsetPercentage"]
+- !private ["6Charts13IChartDataSetP", "valueLinePart2Length"]
+- !private ["6Charts13IChartDataSetP", "valueLineVariableLength"]
+- !private ["6Charts13IChartDataSetP", "valueLineWidth"]
+- !private ["6Charts13IChartDataSetP", "xValuePosition"]
+- !private ["6Charts13IChartDataSetP", "yValuePosition"]
+- !private ["6Charts16IPieChartDataSetP", "init"]
+- !private ["6Charts16IPieChartDataSetP", "selectionShift"]
+- !private ["6Charts16IPieChartDataSetP", "sliceSpace"]
+- !private ["6Charts16IPieChartDataSetP", "valueLineColor"]
+- !private ["6Charts16IPieChartDataSetP", "valueLinePart1Length"]
+- !private ["6Charts16IPieChartDataSetP", "valueLinePart1OffsetPercentage"]
+- !private ["6Charts16IPieChartDataSetP", "valueLinePart2Length"]
+- !private ["6Charts16IPieChartDataSetP", "valueLineVariableLength"]
+- !private ["6Charts16IPieChartDataSetP", "valueLineWidth"]
+- !private ["6Charts16IPieChartDataSetP", "xValuePosition"]
+- !private ["6Charts16IPieChartDataSetP", "yValuePosition"]
+- !private ["10SwiftyJSON0B0V", "bool"]
+- !private ["10SwiftyJSON0B0V", "boolValue"]
+- !private ["10SwiftyJSON0B0V", "dictionary"]
+- !private ["10SwiftyJSON0B0V", "double"]
+- !private ["10SwiftyJSON0B0V", "doubleValue"]
+- !private ["10SwiftyJSON0B0V", "float"]
+- !private ["10SwiftyJSON0B0V", "floatValue"]
+- !private ["10SwiftyJSON0B0V", "int"]
+- !private ["10SwiftyJSON0B0V", "intValue"]
+- !private ["10SwiftyJSON0B0V", "string"]
+- !private ["10SwiftyJSON0B0V", "stringValue"]
+- !private ["10SwiftyJSON0B0V", "subscript"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s22LazyCollectionProtocolP", "bool"]
+- !private ["s22LazyCollectionProtocolP", "boolValue"]
+- !private ["s22LazyCollectionProtocolP", "double"]
+- !private ["s22LazyCollectionProtocolP", "doubleValue"]
+- !private ["s22LazyCollectionProtocolP", "float"]
+- !private ["s22LazyCollectionProtocolP", "floatValue"]
+- !private ["s22LazyCollectionProtocolP", "int"]
+- !private ["s22LazyCollectionProtocolP", "intValue"]
+- !private ["s22LazyCollectionProtocolP", "string"]
+- !private ["s22LazyCollectionProtocolP", "stringValue"]
+- !private ["s20LazySequenceProtocolP", "bool"]
+- !private ["s20LazySequenceProtocolP", "boolValue"]
+- !private ["s20LazySequenceProtocolP", "double"]
+- !private ["s20LazySequenceProtocolP", "doubleValue"]
+- !private ["s20LazySequenceProtocolP", "float"]
+- !private ["s20LazySequenceProtocolP", "floatValue"]
+- !private ["s20LazySequenceProtocolP", "int"]
+- !private ["s20LazySequenceProtocolP", "intValue"]
+- !private ["s20LazySequenceProtocolP", "string"]
+- !private ["s20LazySequenceProtocolP", "stringValue"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["SM", "bool"]
+- !private ["SM", "boolValue"]
+- !private ["SM", "description"]
+- !private ["SM", "double"]
+- !private ["SM", "doubleValue"]
+- !private ["SM", "float"]
+- !private ["SM", "floatValue"]
+- !private ["SM", "init"]
+- !private ["SM", "int"]
+- !private ["SM", "intValue"]
+- !private ["SM", "selectionShift"]
+- !private ["SM", "sliceSpace"]
+- !private ["SM", "string"]
+- !private ["SM", "stringValue"]
+- !private ["SM", "subscript"]
+- !private ["SM", "valueLineColor"]
+- !private ["SM", "valueLinePart1Length"]
+- !private ["SM", "valueLinePart1OffsetPercentage"]
+- !private ["SM", "valueLinePart2Length"]
+- !private ["SM", "valueLineVariableLength"]
+- !private ["SM", "valueLineWidth"]
+- !private ["SM", "xValuePosition"]
+- !private ["SM", "yValuePosition"]
+- !private ["So9NSCopyingP", "data"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "selectionShift"]
+- !private ["So9NSCopyingP", "sliceSpace"]
+- !private ["So9NSCopyingP", "valueLineColor"]
+- !private ["So9NSCopyingP", "valueLinePart1Length"]
+- !private ["So9NSCopyingP", "valueLinePart1OffsetPercentage"]
+- !private ["So9NSCopyingP", "valueLinePart2Length"]
+- !private ["So9NSCopyingP", "valueLineVariableLength"]
+- !private ["So9NSCopyingP", "valueLineWidth"]
+- !private ["So9NSCopyingP", "xValuePosition"]
+- !private ["So9NSCopyingP", "yValuePosition"]
+- !private ["So8NSObjectC", "commonConfig"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "selectionShift"]
+- !private ["So8NSObjectC", "sliceSpace"]
+- !private ["So8NSObjectC", "uiColor"]
+- !private ["So8NSObjectC", "valueLineColor"]
+- !private ["So8NSObjectC", "valueLinePart1Length"]
+- !private ["So8NSObjectC", "valueLinePart1OffsetPercentage"]
+- !private ["So8NSObjectC", "valueLinePart2Length"]
+- !private ["So8NSObjectC", "valueLineVariableLength"]
+- !private ["So8NSObjectC", "valueLineWidth"]
+- !private ["So8NSObjectC", "xValuePosition"]
+- !private ["So8NSObjectC", "yValuePosition"]
+- !private ["So8NSObjectP", "commonConfig"]
+- !private ["So8NSObjectP", "data"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "selectionShift"]
+- !private ["So8NSObjectP", "sliceSpace"]
+- !private ["So8NSObjectP", "uiColor"]
+- !private ["So8NSObjectP", "valueLineColor"]
+- !private ["So8NSObjectP", "valueLinePart1Length"]
+- !private ["So8NSObjectP", "valueLinePart1OffsetPercentage"]
+- !private ["So8NSObjectP", "valueLinePart2Length"]
+- !private ["So8NSObjectP", "valueLineVariableLength"]
+- !private ["So8NSObjectP", "valueLineWidth"]
+- !private ["So8NSObjectP", "xValuePosition"]
+- !private ["So8NSObjectP", "yValuePosition"]
+- !private ["Sj", "init"]
+- !private ["6Charts12PieChartDataC", "init"]
+- !private ["6Charts17PieChartDataEntryC", "data"]
+- !private ["6Charts17PieChartDataEntryC", "init"]
+- !private ["6Charts15PieChartDataSetC", "init"]
+- !private ["6Charts15PieChartDataSetC", "selectionShift"]
+- !private ["6Charts15PieChartDataSetC", "sliceSpace"]
+- !private ["6Charts15PieChartDataSetC", "valueLineColor"]
+- !private ["6Charts15PieChartDataSetC", "valueLinePart1Length"]
+- !private ["6Charts15PieChartDataSetC", "valueLinePart1OffsetPercentage"]
+- !private ["6Charts15PieChartDataSetC", "valueLinePart2Length"]
+- !private ["6Charts15PieChartDataSetC", "valueLineVariableLength"]
+- !private ["6Charts15PieChartDataSetC", "valueLineWidth"]
+- !private ["6Charts15PieChartDataSetC", "xValuePosition"]
+- !private ["6Charts15PieChartDataSetC", "yValuePosition"]
+- !private ["8RNCharts14PieDataExtractC", "AnyObject"]
+- !private ["8RNCharts14PieDataExtractC", "BridgeUtils"]
+- !private ["8RNCharts14PieDataExtractC", "CGFloat"]
+- ["8RNCharts14PieDataExtractC", "ChartData"]
+- ["8RNCharts14PieDataExtractC", "ChartDataEntry"]
+- !private ["8RNCharts14PieDataExtractC", "ChartDataSetConfigUtils"]
+- !private ["8RNCharts14PieDataExtractC", "Double"]
+- ["8RNCharts14PieDataExtractC", "IChartDataSet"]
+- ["8RNCharts14PieDataExtractC", "Int"]
+- ["8RNCharts14PieDataExtractC", "JSON"]
+- !private ["8RNCharts14PieDataExtractC", "PieChartData"]
+- !private ["8RNCharts14PieDataExtractC", "PieChartDataEntry"]
+- !private ["8RNCharts14PieDataExtractC", "PieChartDataSet"]
+- !private ["8RNCharts14PieDataExtractC", "RCTConvert"]
+- ["8RNCharts14PieDataExtractC", "String"]
+- ["8RNCharts14PieDataExtractC", "createData"]
+- ["8RNCharts14PieDataExtractC", "createDataSet"]
+- ["8RNCharts14PieDataExtractC", "createEntry"]
+- ["8RNCharts14PieDataExtractC", "dataSetConfig"]
+- !private ["8RNCharts14PieDataExtractC", "fatalError"]
+- ["8RNCharts14PieDataExtractC", "init"]
+- !private ["So10RCTConvertC", "uiColor"]
+- !private ["Sk", "bool"]
+- !private ["Sk", "boolValue"]
+- !private ["Sk", "description"]
+- !private ["Sk", "double"]
+- !private ["Sk", "doubleValue"]
+- !private ["Sk", "float"]
+- !private ["Sk", "floatValue"]
+- !private ["Sk", "init"]
+- !private ["Sk", "int"]
+- !private ["Sk", "intValue"]
+- !private ["Sk", "selectionShift"]
+- !private ["Sk", "sliceSpace"]
+- !private ["Sk", "string"]
+- !private ["Sk", "stringValue"]
+- !private ["Sk", "subscript"]
+- !private ["Sk", "valueLineColor"]
+- !private ["Sk", "valueLinePart1Length"]
+- !private ["Sk", "valueLinePart1OffsetPercentage"]
+- !private ["Sk", "valueLinePart2Length"]
+- !private ["Sk", "valueLineVariableLength"]
+- !private ["Sk", "valueLineWidth"]
+- !private ["Sk", "xValuePosition"]
+- !private ["Sk", "yValuePosition"]
+- !private ["Sm", "bool"]
+- !private ["Sm", "boolValue"]
+- !private ["Sm", "description"]
+- !private ["Sm", "double"]
+- !private ["Sm", "doubleValue"]
+- !private ["Sm", "float"]
+- !private ["Sm", "floatValue"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "int"]
+- !private ["Sm", "intValue"]
+- !private ["Sm", "selectionShift"]
+- !private ["Sm", "sliceSpace"]
+- !private ["Sm", "string"]
+- !private ["Sm", "stringValue"]
+- !private ["Sm", "subscript"]
+- !private ["Sm", "valueLineColor"]
+- !private ["Sm", "valueLinePart1Length"]
+- !private ["Sm", "valueLinePart1OffsetPercentage"]
+- !private ["Sm", "valueLinePart2Length"]
+- !private ["Sm", "valueLineVariableLength"]
+- !private ["Sm", "valueLineWidth"]
+- !private ["Sm", "xValuePosition"]
+- !private ["Sm", "yValuePosition"]
+- !private ["SY", "bool"]
+- !private ["SY", "boolValue"]
+- !private ["SY", "dictionary"]
+- !private ["SY", "double"]
+- !private ["SY", "doubleValue"]
+- !private ["SY", "float"]
+- !private ["SY", "floatValue"]
+- !private ["SY", "int"]
+- !private ["SY", "intValue"]
+- !private ["SY", "string"]
+- !private ["SY", "stringValue"]
+- !private ["SY", "subscript"]
+- !private ["ST", "bool"]
+- !private ["ST", "boolValue"]
+- !private ["ST", "description"]
+- !private ["ST", "dictionary"]
+- !private ["ST", "double"]
+- !private ["ST", "doubleValue"]
+- !private ["ST", "float"]
+- !private ["ST", "floatValue"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "int"]
+- !private ["ST", "intValue"]
+- !private ["ST", "selectionShift"]
+- !private ["ST", "sliceSpace"]
+- !private ["ST", "string"]
+- !private ["ST", "stringValue"]
+- !private ["ST", "subscript"]
+- !private ["ST", "valueLineColor"]
+- !private ["ST", "valueLinePart1Length"]
+- !private ["ST", "valueLinePart1OffsetPercentage"]
+- !private ["ST", "valueLinePart2Length"]
+- !private ["ST", "valueLineVariableLength"]
+- !private ["ST", "valueLineWidth"]
+- !private ["ST", "xValuePosition"]
+- !private ["ST", "yValuePosition"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s5SliceV", "bool"]
+- !private ["s5SliceV", "boolValue"]
+- !private ["s5SliceV", "double"]
+- !private ["s5SliceV", "doubleValue"]
+- !private ["s5SliceV", "float"]
+- !private ["s5SliceV", "floatValue"]
+- !private ["s5SliceV", "int"]
+- !private ["s5SliceV", "intValue"]
+- !private ["s5SliceV", "string"]
+- !private ["s5SliceV", "stringValue"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["Sx", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s24_DestructorSafeContainerP", "description"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "description"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "commonConfig"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectionShift"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sliceSpace"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "uiColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "valueLineColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "valueLinePart1Length"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "valueLinePart1OffsetPercentage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "valueLinePart2Length"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "valueLineVariableLength"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "valueLineWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "xValuePosition"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "yValuePosition"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "description"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "SB"
+- !private "Sb"
+- !private "8RNCharts11BridgeUtilsC"
+- !private "12CoreGraphics7CGFloatV"
+- !private "s7CVarArgP"
+- !private "6Charts16ChartBaseDataSetC"
+- !private "6Charts9ChartDataC"
+- !private "6Charts14ChartDataEntryC"
+- !private "6Charts18ChartDataEntryBaseC"
+- !private "6Charts12ChartDataSetC"
+- !private "8RNCharts23ChartDataSetConfigUtilsC"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "8RNCharts11DataExtractC"
+- !private "Se"
+- !private "Sd"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "SF"
+- !private "SH"
+- !private "6Charts13IChartDataSetP"
+- !private "6Charts16IPieChartDataSetP"
+- !private "10SwiftyJSON0B0V"
+- !private "10SwiftyJSON17JSONSubscriptTypeP"
+- !private "s22LazyCollectionProtocolP"
+- !private "s20LazySequenceProtocolP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "SM"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sj"
+- !private "6Charts12PieChartDataC"
+- !private "6Charts17PieChartDataEntryC"
+- !private "6Charts15PieChartDataSetC"
+- "8RNCharts14PieDataExtractC"
+- !private "So10RCTConvertC"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s13SignedNumericP"
+- !private "s5SliceV"
+- !private "s12StaticStringV"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNBarLineChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNYAxisChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTLog.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-Bridging-Header.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/UIView+React.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Swift Compatibility Header/Charts-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFont.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2037bb3bad54e48c4023e1a31944a6aa"

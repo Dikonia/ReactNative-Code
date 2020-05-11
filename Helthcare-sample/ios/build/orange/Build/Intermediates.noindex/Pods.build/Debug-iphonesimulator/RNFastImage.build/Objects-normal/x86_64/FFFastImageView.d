@@ -1,0 +1,41 @@
+dependencies: \
+  /Users/dikonia/Desktop/mphhealth-mobile/node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.m \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Target\ Support\ Files/RNFastImage/RNFastImage-prefix.pch \
+  /Users/dikonia/Desktop/mphhealth-mobile/node_modules/react-native-fast-image/ios/FastImage/FFFastImageView.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDAnimatedImageView+WebCache.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDAnimatedImageView.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageCompat.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDAnimatedImage.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDImageCoder.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/NSData+ImageContentType.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageManager.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageOperation.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDImageCacheDefine.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageDefine.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDImageLoader.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDImageTransformer.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/UIImage+Transform.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageCacheKeyFilter.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageCacheSerializer.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageOptionsProcessor.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloader.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderConfig.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderRequestModifier.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderResponseModifier.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Private/SDWebImage/SDWebImageDownloaderDecryptor.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTResizeMode.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/dikonia/Desktop/mphhealth-mobile/node_modules/react-native-fast-image/ios/FastImage/FFFastImageSource.h

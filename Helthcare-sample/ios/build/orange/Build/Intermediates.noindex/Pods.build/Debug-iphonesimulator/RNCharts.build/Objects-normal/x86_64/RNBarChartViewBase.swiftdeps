@@ -1,0 +1,419 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNBarChartViewBase"
+provides-nominal:
+- "8RNCharts18RNBarChartViewBaseC"
+provides-member:
+- ["8RNCharts18RNBarChartViewBaseC", ""]
+provides-dynamic-lookup:
+- "setDrawBarShadow"
+- "setDrawValueAboveBar"
+- "setHighlightFullBarEnabled"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BarChartView"
+- "Bool"
+- "CastingPrecedence"
+- "RNBarChartViewBase"
+- "RNBarLineChartViewBase"
+depends-member:
+- !private ["6Charts16AnimatorDelegateP", "drawBarShadowEnabled"]
+- !private ["6Charts16AnimatorDelegateP", "drawValueAboveBarEnabled"]
+- !private ["6Charts16AnimatorDelegateP", "highlightFullBarEnabled"]
+- !private ["6Charts20BarChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts20BarChartDataProviderP", "drawValueAboveBarEnabled"]
+- !private ["6Charts20BarChartDataProviderP", "highlightFullBarEnabled"]
+- !private ["6Charts12BarChartViewC", "drawBarShadowEnabled"]
+- !private ["6Charts12BarChartViewC", "drawValueAboveBarEnabled"]
+- !private ["6Charts12BarChartViewC", "highlightFullBarEnabled"]
+- !private ["6Charts20BarLineChartViewBaseC", "drawBarShadowEnabled"]
+- !private ["6Charts20BarLineChartViewBaseC", "drawValueAboveBarEnabled"]
+- !private ["6Charts20BarLineChartViewBaseC", "highlightFullBarEnabled"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "drawValueAboveBarEnabled"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "highlightFullBarEnabled"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "barChart"]
+- !private ["So15CALayerDelegateP", "chart"]
+- !private ["So15CALayerDelegateP", "drawBarShadowEnabled"]
+- !private ["So15CALayerDelegateP", "drawValueAboveBarEnabled"]
+- !private ["So15CALayerDelegateP", "highlightFullBarEnabled"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "barChart"]
+- !private ["s7CVarArgP", "chart"]
+- !private ["s7CVarArgP", "drawBarShadowEnabled"]
+- !private ["s7CVarArgP", "drawValueAboveBarEnabled"]
+- !private ["s7CVarArgP", "highlightFullBarEnabled"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["6Charts17ChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts17ChartDataProviderP", "drawValueAboveBarEnabled"]
+- !private ["6Charts17ChartDataProviderP", "highlightFullBarEnabled"]
+- !private ["6Charts13ChartViewBaseC", "drawBarShadowEnabled"]
+- !private ["6Charts13ChartViewBaseC", "drawValueAboveBarEnabled"]
+- !private ["6Charts13ChartViewBaseC", "highlightFullBarEnabled"]
+- ["6Charts17ChartViewDelegateP", ""]
+- !private ["6Charts17ChartViewDelegateP", "barChart"]
+- !private ["6Charts17ChartViewDelegateP", "chart"]
+- !private ["6Charts17ChartViewDelegateP", "init"]
+- !private ["6Charts17ChartViewDelegateP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "barChart"]
+- !private ["s28CustomDebugStringConvertibleP", "chart"]
+- !private ["s28CustomDebugStringConvertibleP", "drawBarShadowEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "drawValueAboveBarEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "highlightFullBarEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "barChart"]
+- !private ["s23CustomStringConvertibleP", "chart"]
+- !private ["s23CustomStringConvertibleP", "drawBarShadowEnabled"]
+- !private ["s23CustomStringConvertibleP", "drawValueAboveBarEnabled"]
+- !private ["s23CustomStringConvertibleP", "highlightFullBarEnabled"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["SQ", ""]
+- !private ["SQ", "barChart"]
+- !private ["SQ", "chart"]
+- !private ["SQ", "drawBarShadowEnabled"]
+- !private ["SQ", "drawValueAboveBarEnabled"]
+- !private ["SQ", "highlightFullBarEnabled"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- ["SH", ""]
+- !private ["SH", "barChart"]
+- !private ["SH", "chart"]
+- !private ["SH", "drawBarShadowEnabled"]
+- !private ["SH", "drawValueAboveBarEnabled"]
+- !private ["SH", "highlightFullBarEnabled"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "barChart"]
+- !private ["So8NSCodingP", "chart"]
+- !private ["So8NSCodingP", "drawBarShadowEnabled"]
+- !private ["So8NSCodingP", "drawValueAboveBarEnabled"]
+- !private ["So8NSCodingP", "highlightFullBarEnabled"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSObjectC", "BarChartView"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "barChart"]
+- !private ["So8NSObjectC", "chart"]
+- !private ["So8NSObjectC", "drawBarShadowEnabled"]
+- !private ["So8NSObjectC", "drawValueAboveBarEnabled"]
+- !private ["So8NSObjectC", "highlightFullBarEnabled"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "setDrawBarShadow"]
+- ["So8NSObjectC", "setDrawValueAboveBar"]
+- ["So8NSObjectC", "setHighlightFullBarEnabled"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "barChart"]
+- !private ["So8NSObjectP", "chart"]
+- !private ["So8NSObjectP", "drawBarShadowEnabled"]
+- !private ["So8NSObjectP", "drawValueAboveBarEnabled"]
+- !private ["So8NSObjectP", "highlightFullBarEnabled"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["6Charts8NSUIViewC", "drawBarShadowEnabled"]
+- !private ["6Charts8NSUIViewC", "drawValueAboveBarEnabled"]
+- !private ["6Charts8NSUIViewC", "highlightFullBarEnabled"]
+- ["So12RCTComponentP", ""]
+- !private ["So12RCTComponentP", "barChart"]
+- !private ["So12RCTComponentP", "chart"]
+- !private ["So12RCTComponentP", "drawBarShadowEnabled"]
+- !private ["So12RCTComponentP", "drawValueAboveBarEnabled"]
+- !private ["So12RCTComponentP", "highlightFullBarEnabled"]
+- !private ["So12RCTComponentP", "init"]
+- !private ["So12RCTComponentP", "init"]
+- ["8RNCharts18RNBarChartViewBaseC", "BarChartView"]
+- ["8RNCharts18RNBarChartViewBaseC", "Bool"]
+- !private ["8RNCharts18RNBarChartViewBaseC", "barChart"]
+- !private ["8RNCharts18RNBarChartViewBaseC", "chart"]
+- ["8RNCharts18RNBarChartViewBaseC", "deinit"]
+- ["8RNCharts18RNBarChartViewBaseC", "init"]
+- ["8RNCharts18RNBarChartViewBaseC", "setDrawBarShadow"]
+- ["8RNCharts18RNBarChartViewBaseC", "setDrawValueAboveBar"]
+- ["8RNCharts18RNBarChartViewBaseC", "setHighlightFullBarEnabled"]
+- ["8RNCharts22RNBarLineChartViewBaseC", "BarChartView"]
+- ["8RNCharts22RNBarLineChartViewBaseC", "Bool"]
+- ["8RNCharts22RNBarLineChartViewBaseC", ""]
+- ["8RNCharts22RNBarLineChartViewBaseC", "barChart"]
+- !private ["8RNCharts22RNBarLineChartViewBaseC", "chart"]
+- !private ["8RNCharts22RNBarLineChartViewBaseC", "deinit"]
+- ["8RNCharts22RNBarLineChartViewBaseC", "init"]
+- !private ["8RNCharts22RNBarLineChartViewBaseC", "init"]
+- ["8RNCharts22RNBarLineChartViewBaseC", "setDrawBarShadow"]
+- ["8RNCharts22RNBarLineChartViewBaseC", "setDrawValueAboveBar"]
+- ["8RNCharts22RNBarLineChartViewBaseC", "setHighlightFullBarEnabled"]
+- ["8RNCharts15RNChartViewBaseC", "BarChartView"]
+- ["8RNCharts15RNChartViewBaseC", "Bool"]
+- ["8RNCharts15RNChartViewBaseC", "barChart"]
+- !private ["8RNCharts15RNChartViewBaseC", "chart"]
+- ["8RNCharts15RNChartViewBaseC", "init"]
+- !private ["8RNCharts15RNChartViewBaseC", "init"]
+- ["8RNCharts15RNChartViewBaseC", "setDrawBarShadow"]
+- ["8RNCharts15RNChartViewBaseC", "setDrawValueAboveBar"]
+- ["8RNCharts15RNChartViewBaseC", "setHighlightFullBarEnabled"]
+- ["8RNCharts20RNYAxisChartViewBaseC", "BarChartView"]
+- ["8RNCharts20RNYAxisChartViewBaseC", "Bool"]
+- ["8RNCharts20RNYAxisChartViewBaseC", "barChart"]
+- !private ["8RNCharts20RNYAxisChartViewBaseC", "chart"]
+- ["8RNCharts20RNYAxisChartViewBaseC", "init"]
+- !private ["8RNCharts20RNYAxisChartViewBaseC", "init"]
+- ["8RNCharts20RNYAxisChartViewBaseC", "setDrawBarShadow"]
+- ["8RNCharts20RNYAxisChartViewBaseC", "setDrawValueAboveBar"]
+- ["8RNCharts20RNYAxisChartViewBaseC", "setHighlightFullBarEnabled"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "barChart"]
+- !private ["So29UIAccessibilityIdentificationP", "chart"]
+- !private ["So29UIAccessibilityIdentificationP", "drawBarShadowEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "drawValueAboveBarEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "highlightFullBarEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "barChart"]
+- !private ["So12UIAppearanceP", "chart"]
+- !private ["So12UIAppearanceP", "drawBarShadowEnabled"]
+- !private ["So12UIAppearanceP", "drawValueAboveBarEnabled"]
+- !private ["So12UIAppearanceP", "highlightFullBarEnabled"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "barChart"]
+- !private ["So21UIAppearanceContainerP", "chart"]
+- !private ["So21UIAppearanceContainerP", "drawBarShadowEnabled"]
+- !private ["So21UIAppearanceContainerP", "drawValueAboveBarEnabled"]
+- !private ["So21UIAppearanceContainerP", "highlightFullBarEnabled"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "barChart"]
+- !private ["So17UICoordinateSpaceP", "chart"]
+- !private ["So17UICoordinateSpaceP", "drawBarShadowEnabled"]
+- !private ["So17UICoordinateSpaceP", "drawValueAboveBarEnabled"]
+- !private ["So17UICoordinateSpaceP", "highlightFullBarEnabled"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "barChart"]
+- !private ["So13UIDynamicItemP", "chart"]
+- !private ["So13UIDynamicItemP", "drawBarShadowEnabled"]
+- !private ["So13UIDynamicItemP", "drawValueAboveBarEnabled"]
+- !private ["So13UIDynamicItemP", "highlightFullBarEnabled"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "barChart"]
+- !private ["So18UIFocusEnvironmentP", "chart"]
+- !private ["So18UIFocusEnvironmentP", "drawBarShadowEnabled"]
+- !private ["So18UIFocusEnvironmentP", "drawValueAboveBarEnabled"]
+- !private ["So18UIFocusEnvironmentP", "highlightFullBarEnabled"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "barChart"]
+- !private ["So11UIFocusItemP", "chart"]
+- !private ["So11UIFocusItemP", "drawBarShadowEnabled"]
+- !private ["So11UIFocusItemP", "drawValueAboveBarEnabled"]
+- !private ["So11UIFocusItemP", "highlightFullBarEnabled"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "barChart"]
+- !private ["So20UIFocusItemContainerP", "chart"]
+- !private ["So20UIFocusItemContainerP", "drawBarShadowEnabled"]
+- !private ["So20UIFocusItemContainerP", "drawValueAboveBarEnabled"]
+- !private ["So20UIFocusItemContainerP", "highlightFullBarEnabled"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So27UIGestureRecognizerDelegateP", "drawBarShadowEnabled"]
+- !private ["So27UIGestureRecognizerDelegateP", "drawValueAboveBarEnabled"]
+- !private ["So27UIGestureRecognizerDelegateP", "highlightFullBarEnabled"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "barChart"]
+- !private ["So30UIPasteConfigurationSupportingP", "chart"]
+- !private ["So30UIPasteConfigurationSupportingP", "drawBarShadowEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "drawValueAboveBarEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "highlightFullBarEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So11UIResponderC", "BarChartView"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "barChart"]
+- !private ["So11UIResponderC", "chart"]
+- !private ["So11UIResponderC", "drawBarShadowEnabled"]
+- !private ["So11UIResponderC", "drawValueAboveBarEnabled"]
+- !private ["So11UIResponderC", "highlightFullBarEnabled"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "setDrawBarShadow"]
+- ["So11UIResponderC", "setDrawValueAboveBar"]
+- ["So11UIResponderC", "setHighlightFullBarEnabled"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "barChart"]
+- !private ["So30UIResponderStandardEditActionsP", "chart"]
+- !private ["So30UIResponderStandardEditActionsP", "drawBarShadowEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "drawValueAboveBarEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "highlightFullBarEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "barChart"]
+- !private ["So18UITraitEnvironmentP", "chart"]
+- !private ["So18UITraitEnvironmentP", "drawBarShadowEnabled"]
+- !private ["So18UITraitEnvironmentP", "drawValueAboveBarEnabled"]
+- !private ["So18UITraitEnvironmentP", "highlightFullBarEnabled"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "barChart"]
+- !private ["So23UIUserActivityRestoringP", "chart"]
+- !private ["So23UIUserActivityRestoringP", "drawBarShadowEnabled"]
+- !private ["So23UIUserActivityRestoringP", "drawValueAboveBarEnabled"]
+- !private ["So23UIUserActivityRestoringP", "highlightFullBarEnabled"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- ["So6UIViewC", "BarChartView"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "barChart"]
+- !private ["So6UIViewC", "chart"]
+- !private ["So6UIViewC", "drawBarShadowEnabled"]
+- !private ["So6UIViewC", "drawValueAboveBarEnabled"]
+- !private ["So6UIViewC", "highlightFullBarEnabled"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- ["So6UIViewC", "setDrawBarShadow"]
+- ["So6UIViewC", "setDrawValueAboveBar"]
+- ["So6UIViewC", "setHighlightFullBarEnabled"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "barChart"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "chart"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "drawBarShadowEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "drawValueAboveBarEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "highlightFullBarEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barChart"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "chart"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "drawBarShadowEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "drawValueAboveBarEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "highlightFullBarEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+depends-nominal:
+- !private "6Charts16AnimatorDelegateP"
+- !private "6Charts20BarChartDataProviderP"
+- !private "6Charts12BarChartViewC"
+- !private "6Charts20BarLineChartViewBaseC"
+- !private "6Charts43BarLineScatterCandleBubbleChartDataProviderP"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "6Charts17ChartDataProviderP"
+- !private "6Charts13ChartViewBaseC"
+- "6Charts17ChartViewDelegateP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "6Charts8NSUIViewC"
+- "So12RCTComponentP"
+- "8RNCharts18RNBarChartViewBaseC"
+- "8RNCharts22RNBarLineChartViewBaseC"
+- "8RNCharts15RNChartViewBaseC"
+- "8RNCharts20RNYAxisChartViewBaseC"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So27UIGestureRecognizerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNBarLineChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNYAxisChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTLog.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-Bridging-Header.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/UIView+React.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Swift Compatibility Header/Charts-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFont.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9a3b2cb09db9b9dc7b4c11e53b2f33c6"

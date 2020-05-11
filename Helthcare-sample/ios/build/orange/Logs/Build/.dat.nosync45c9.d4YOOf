@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>8E928F7E-B46E-44B3-B147-3E68F30EDAED</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E928F7E-B46E-44B3-B147-3E68F30EDAED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>orange project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>orange</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace orange with scheme orange and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>607611167.70008302</real>
+			<key>timeStoppedRecording</key>
+			<real>607611173.51210904</real>
+			<key>title</key>
+			<string>Building workspace orange with scheme orange and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8E928F7E-B46E-44B3-B147-3E68F30EDAED</string>
+		</dict>
+		<key>A864E084-19F5-47F1-9011-D76B1D9A94CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A864E084-19F5-47F1-9011-D76B1D9A94CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>orange project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>orange</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace orange with scheme orange and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>607611270.00929904</real>
+			<key>timeStoppedRecording</key>
+			<real>607611271.77234399</real>
+			<key>title</key>
+			<string>Building workspace orange with scheme orange and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A864E084-19F5-47F1-9011-D76B1D9A94CD</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,293 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNCandleStickChartManager"
+provides-nominal:
+- "8RNCharts25RNCandleStickChartManagerC"
+provides-member:
+- ["8RNCharts25RNCandleStickChartManagerC", ""]
+provides-dynamic-lookup:
+- "_bridge"
+- "centerViewTo"
+- "centerViewToAnimated"
+- "fitScreen"
+- "highlights"
+- "moveViewTo"
+- "moveViewToAnimated"
+- "moveViewToX"
+- "requiresMainQueueSetup"
+- "setDataAndLockIndex"
+- "view"
+depends-top-level:
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "NSArray"
+- "NSDictionary"
+- "NSNumber"
+- "NSString"
+- "RCTBridge"
+- "RCTViewManager"
+- "RNBarLineChartBaseManager"
+- "RNCandleStickChartManager"
+- !private "RNCandleStickChartView"
+- "UIView"
+depends-member:
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["s7CVarArgP", "RNCandleStickChartView"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "_bridge"]
+- !private ["s7CVarArgP", "bridge"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["6Charts17ChartViewDelegateP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "RNCandleStickChartView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_bridge"]
+- !private ["s28CustomDebugStringConvertibleP", "bridge"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "RNCandleStickChartView"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_bridge"]
+- !private ["s23CustomStringConvertibleP", "bridge"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["SQ", "RNCandleStickChartView"]
+- ["SQ", ""]
+- ["SQ", "_bridge"]
+- !private ["SQ", "bridge"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SH", "RNCandleStickChartView"]
+- ["SH", ""]
+- ["SH", "_bridge"]
+- !private ["SH", "bridge"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "NSArray"]
+- ["So8NSObjectC", "NSDictionary"]
+- ["So8NSObjectC", "NSNumber"]
+- ["So8NSObjectC", "NSString"]
+- ["So8NSObjectC", "RCTBridge"]
+- !private ["So8NSObjectC", "RNBarLineChartBaseManager"]
+- !private ["So8NSObjectC", "RNCandleStickChartView"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "_bridge"]
+- !private ["So8NSObjectC", "bridge"]
+- ["So8NSObjectC", "centerViewTo"]
+- ["So8NSObjectC", "centerViewToAnimated"]
+- ["So8NSObjectC", "fitScreen"]
+- ["So8NSObjectC", "highlights"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "moveViewTo"]
+- ["So8NSObjectC", "moveViewToAnimated"]
+- ["So8NSObjectC", "moveViewToX"]
+- ["So8NSObjectC", "requiresMainQueueSetup"]
+- ["So8NSObjectC", "setDataAndLockIndex"]
+- ["So8NSObjectC", "view"]
+- !private ["So8NSObjectP", "RNCandleStickChartView"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "_bridge"]
+- !private ["So8NSObjectP", "bridge"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So15RCTBridgeModuleP", "RNCandleStickChartView"]
+- ["So15RCTBridgeModuleP", ""]
+- ["So15RCTBridgeModuleP", "_bridge"]
+- !private ["So15RCTBridgeModuleP", "bridge"]
+- !private ["So15RCTBridgeModuleP", "init"]
+- !private ["So15RCTBridgeModuleP", "init"]
+- !private ["So12RCTComponentP", "init"]
+- ["So14RCTViewManagerC", "Bool"]
+- ["So14RCTViewManagerC", "NSArray"]
+- ["So14RCTViewManagerC", "NSDictionary"]
+- ["So14RCTViewManagerC", "NSNumber"]
+- ["So14RCTViewManagerC", "NSString"]
+- ["So14RCTViewManagerC", "RCTBridge"]
+- !private ["So14RCTViewManagerC", "RNBarLineChartBaseManager"]
+- !private ["So14RCTViewManagerC", "RNCandleStickChartView"]
+- ["So14RCTViewManagerC", "UIView"]
+- ["So14RCTViewManagerC", ""]
+- ["So14RCTViewManagerC", "_bridge"]
+- !private ["So14RCTViewManagerC", "bridge"]
+- ["So14RCTViewManagerC", "centerViewTo"]
+- ["So14RCTViewManagerC", "centerViewToAnimated"]
+- ["So14RCTViewManagerC", "fitScreen"]
+- ["So14RCTViewManagerC", "highlights"]
+- ["So14RCTViewManagerC", "init"]
+- !private ["So14RCTViewManagerC", "init"]
+- ["So14RCTViewManagerC", "moveViewTo"]
+- ["So14RCTViewManagerC", "moveViewToAnimated"]
+- ["So14RCTViewManagerC", "moveViewToX"]
+- ["So14RCTViewManagerC", "requiresMainQueueSetup"]
+- ["So14RCTViewManagerC", "setDataAndLockIndex"]
+- ["So14RCTViewManagerC", "view"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "RNCandleStickChartView"]
+- ["8RNCharts25RNBarLineChartBaseManagerP", ""]
+- ["8RNCharts25RNBarLineChartBaseManagerP", "_bridge"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "_centerViewTo"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "_centerViewToAnimated"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "_fitScreen"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "_highlights"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "_moveViewTo"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "_moveViewToAnimated"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "_moveViewToX"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "_setDataAndLockIndex"]
+- !private ["8RNCharts25RNBarLineChartBaseManagerP", "bridge"]
+- !private ["8RNCharts22RNBarLineChartViewBaseC", "init"]
+- ["8RNCharts25RNCandleStickChartManagerC", "Bool"]
+- ["8RNCharts25RNCandleStickChartManagerC", "NSArray"]
+- ["8RNCharts25RNCandleStickChartManagerC", "NSDictionary"]
+- ["8RNCharts25RNCandleStickChartManagerC", "NSNumber"]
+- ["8RNCharts25RNCandleStickChartManagerC", "NSString"]
+- ["8RNCharts25RNCandleStickChartManagerC", "RCTBridge"]
+- !private ["8RNCharts25RNCandleStickChartManagerC", "RNBarLineChartBaseManager"]
+- !private ["8RNCharts25RNCandleStickChartManagerC", "RNCandleStickChartView"]
+- ["8RNCharts25RNCandleStickChartManagerC", "UIView"]
+- ["8RNCharts25RNCandleStickChartManagerC", "_bridge"]
+- !private ["8RNCharts25RNCandleStickChartManagerC", "bridge"]
+- ["8RNCharts25RNCandleStickChartManagerC", "centerViewTo"]
+- ["8RNCharts25RNCandleStickChartManagerC", "centerViewToAnimated"]
+- ["8RNCharts25RNCandleStickChartManagerC", "deinit"]
+- ["8RNCharts25RNCandleStickChartManagerC", "fitScreen"]
+- ["8RNCharts25RNCandleStickChartManagerC", "highlights"]
+- ["8RNCharts25RNCandleStickChartManagerC", "init"]
+- ["8RNCharts25RNCandleStickChartManagerC", "moveViewTo"]
+- ["8RNCharts25RNCandleStickChartManagerC", "moveViewToAnimated"]
+- ["8RNCharts25RNCandleStickChartManagerC", "moveViewToX"]
+- ["8RNCharts25RNCandleStickChartManagerC", "requiresMainQueueSetup"]
+- ["8RNCharts25RNCandleStickChartManagerC", "setDataAndLockIndex"]
+- ["8RNCharts25RNCandleStickChartManagerC", "view"]
+- !private ["8RNCharts22RNCandleStickChartViewC", "deinit"]
+- !private ["8RNCharts22RNCandleStickChartViewC", "init"]
+- !private ["8RNCharts15RNChartViewBaseC", "init"]
+- !private ["8RNCharts20RNYAxisChartViewBaseC", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RNCandleStickChartView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "_bridge"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bridge"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "6Charts17ChartViewDelegateP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "SH"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So15RCTBridgeModuleP"
+- !private "So12RCTComponentP"
+- "So14RCTViewManagerC"
+- "8RNCharts25RNBarLineChartBaseManagerP"
+- !private "8RNCharts22RNBarLineChartViewBaseC"
+- "8RNCharts25RNCandleStickChartManagerC"
+- !private "8RNCharts22RNCandleStickChartViewC"
+- !private "8RNCharts15RNChartViewBaseC"
+- !private "8RNCharts20RNYAxisChartViewBaseC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-umbrella.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNBarLineChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNYAxisChartManagerBridge.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTLog.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts-Bridging-Header.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTEventEmitter.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/UIView+React.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/Swift Compatibility Header/SwiftyJSON-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Swift Compatibility Header/Charts-Swift.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTFont.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/build/orange/Build/Products/Debug-iphonesimulator/Charts/Charts.modulemap"
+- "/Users/dikonia/Desktop/mphhealth-mobile/ios/Pods/Headers/Public/RNCharts/RNCharts.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "10adad0fa4639b9bfb54cdad6226a9e8"
