@@ -6,24 +6,18 @@ This project is about helthcare and management for nurse and Patient and their f
  below to get overview.
  
  1 - Swiper :-
-    we have used swiper to show help step and user guide for new user.
+    we have used swiper to show help step and user guide for new user.module releated file is located in app/helpsteps.js
    
- 2- Datetimepicker :-
-    we have used Datetimepicker to add Appiontment based on date and time for patient and Nurse.
+ 2 - Datetimepicker :-
+    we have used Datetimepicker to add Appiontment based on date and time for patient and Nurse. module releated file is located in app/component/Datetimepicker.js
+   
+3 - calendar-picker :-
+     we have used calendar Picker to show Appointment details by select date and reminder for Appointment. module releated file is located in app/component/CalendarView.js
+     
+4 - Camera :- we have used camera for scan medicine Bar code and read Qr code. 
     
-3 - Google-geolocation :-
-     we have used google geolocation to get live location of nurse and docter.
-
-4 - calendar-picker :-
-     we have used calendar Picker to show Appointment details by select date and reminder for Appointment.
-     
-5 - Camera :-
-     we have used camera for scan medicine Bar code and read Qr code.
-     
-6-  Charts-wrapper :-
-    we have used charts-wrapper to show patient reports by graph.
+5 -  Charts-wrapper :-  we have used charts-wrapper to show patient reports by graph.
  
-7- sendbird :-
-   we have used sendbird for realtime chat and send video, audio,images and location.its same like whats App.
+6 - sendbird :-we have used sendbird for realtime chat and send video, audio,images and location.its same like whats App. module releated file is located in app/component/SendbirdActions.js
 
 
